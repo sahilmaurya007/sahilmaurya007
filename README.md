@@ -12,10 +12,30 @@
 
 ## 🎓 Academic Profile
 
-```math
-\boxed{\text{IIT Mandi} \quad \text{Research Scholar} \quad \text{CGPA: 8.33/10}}
-\boxed{\text{IIIT Guwahati} \quad \text{M.Tech VLSI} \quad \text{CGPA: 9.11/10 (Gold Medalist)}}
+<div align="center">
+  
+| | | |
+|:-------------------------:|:-------------------------:|:-------------------------:|
+| ![IIT Mandi](https://img.shields.io/badge/IIT_Mandi-Research_Scholar-0A4D6E?style=for-the-badge&logo=academia&logoColor=white) | ![IIIT Guwahati](https://img.shields.io/badge/IIIT_Guwahati-M.Tech_VLSI-1B4D2E?style=for-the-badge&logo=education&logoColor=white) | ![Gold Medalist](https://img.shields.io/badge/Top_Performer-CGPA_9.11-FFD700?style=for-the-badge&logo=trophy&logoColor=black) |
 
+</div>
+
+### 📚 Education Timeline
+
+| Degree | Institution | Duration | Performance |
+|:-------|:------------|:---------|:------------|
+| **Research Scholar (PhD)** | Indian Institute of Technology (IIT), Mandi | 2025 - Present | CGPA: 8.33/10.0 |
+| **M.Tech in VLSI and Embedded System** | Indian Institute of Information Technology, Guwahati | 2023 | CGPA: 9.11/10.0 🏅 |
+| **B.Tech in Electronics and Communication Engineering** | University of Lucknow, Uttar Pradesh | 2021 | Percentage: 66.1% |
+| **Higher Secondary Certificate (Intermediate)** | Board of High School and Intermediate Education, UP | 2016 | Percentage: 85% |
+
+---
+
+## 🔬 Research Focus Areas
+
+<div align="center">
+  
+```mermaid
 mindmap
   root((Research Focus))
     Post-Quantum Cryptography
@@ -23,18 +43,21 @@ mindmap
       NTT Hardware Acceleration
       Side-Channel Resistance
       Approximate Modular Multipliers
+      RLWE-based Cryptosystems
     RISC-V SoC Architecture
       Custom ISA Extensions
       Secure Processor Design
       Memory-Mapped Accelerators
       Trusted Execution Environment
+      Hardware-Software Co-Design
     Digital VLSI Design
       RTL-to-GDSII Flow
       PPA Optimization
       Low-Power Techniques
       FPGA/ASIC Implementation
-    AI Hardware
-      Neuromorphic Computing
-      Adaptive Precision RISC-V
+      Static Timing Analysis
+    AI Hardware & Neuromorphic
+      Adaptive Precision Computing
       ML Accelerators
       Energy-Efficient Architectures
+      Neuronal State Management
