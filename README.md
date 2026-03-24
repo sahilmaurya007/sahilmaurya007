@@ -1,85 +1,86 @@
-# Sahil Maurya
+<div align="center">
 
-**Research Scholar** | School of Computing & Electrical Engineering (SCEE)  
-**Indian Institute of Technology Mandi** | **A²DSL Lab**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0a2e,70:0d2137,100:0d1117&height=200&section=header&text=Sahil%20Maurya&fontSize=48&fontColor=00d4ff&fontAlignY=35&desc=Research%20Scholar%20%7C%20IIT%20Mandi%20(SCEE)&descColor=8b949e&descAlignY=55&animation=fadeIn" width="100%"/>
 
-I design **secure and efficient hardware accelerators** for Post-Quantum Cryptography (PQC) using advanced Digital VLSI and RISC-V SoC techniques. My focus lies in RTL-to-GDSII implementation of NIST PQC algorithms (Kyber/ML-KEM, Dilithium/ML-DSA) with emphasis on high-throughput NTT, modular arithmetic, side-channel resistance, and low-power optimization on both FPGA and ASIC platforms.
+</div>
 
-[![GitHub followers](https://img.shields.io/github/followers/sahilmaurya007?style=social)](https://github.com/sahilmaurya007)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4)](https://scholar.google.com/citations?user=your-id)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2)](https://www.linkedin.com/in/sahilmaurya007)
-[![ORCID](https://img.shields.io/badge/ORCID-0000-0000-0000-0000-blue)](https://orcid.org/)
+<div align="center">
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Architecting+Quantum-Resistant+Hardware;Designing+Secure+RISC-V+SoCs;RTL+to+GDSII+%E2%80%94+Optimizing+for+PPA;Pushing+the+Frontier+of+Hardware+Security)](https://git.io/typing-svg)
 
-## Research Interests
-
-- **Post-Quantum Cryptography Hardware**: Acceleration of lattice-based schemes (RLWE, NTT, Gaussian sampling) with side-channel protection.
-- **Digital VLSI Design**: RTL design, synthesis, STA, low-power techniques, DFT, and full ASIC flow (OpenLane / Sky130).
-- **RISC-V SoC Development**: Custom cryptographic extensions and AXI4/APB integration for secure processors.
+</div>
 
 ---
 
-## Tech Stack
+### 👨‍💻 About Me
 
-**HDL & Languages**  
-![Verilog](https://img.shields.io/badge/Verilog-1E90FF?logo=verilog&logoColor=white) 
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF4500) 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) 
-![TCL](https://img.shields.io/badge/TCL-1E90FF)
+I am a Research Scholar at the **Indian Institute of Technology (IIT) Mandi** in the **School of Computing and Electrical Engineering (SCEE)**. My research focuses on the intersection of hardware security, computer architecture, and digital VLSI design.
 
-**EDA & Implementation Tools**  
-![Vivado](https://img.shields.io/badge/Vivado-FF0000?logo=xilinx&logoColor=white) 
-![OpenLane](https://img.shields.io/badge/OpenLane-00A0B0) 
-![OpenROAD](https://img.shields.io/badge/OpenROAD-00A0B0) 
-![Yosys](https://img.shields.io/badge/Yosys-00A0B0) 
-![GTKWave](https://img.shields.io/badge/GTKWave-1E90FF)
-
-**Domains**  
-![PQC](https://img.shields.io/badge/PQC-Post--Quantum_Cryptography-8A2BE2) 
-![RISC--V](https://img.shields.io/badge/RISC--V-Architecture-228B22) 
-![ASIC](https://img.shields.io/badge/ASIC-Full_Flow-FF4500) 
-![FPGA](https://img.shields.io/badge/FPGA-Prototyping-00BFFF)
+My work aims to build the foundational hardware for a post-quantum world. I specialize in creating high-performance, area-efficient, and side-channel resistant hardware accelerators for NIST-standardized Post-Quantum Cryptography (PQC) algorithms and integrating them into RISC-V based System-on-Chip (SoC) architectures. I am proficient in the complete design flow, from RTL design in Verilog/SystemVerilog to FPGA prototyping on Xilinx/Intel platforms and ASIC implementation using OpenLane and commercial tools.
 
 ---
 
-## Featured Research Projects
+### 🔬 Research Focus Areas
 
-All projects follow a professional repository structure (`rtl/`, `tb/`, `scripts/`, `synthesis/`, `docs/`, `results/`) and are designed for direct IEEE publication potential. They build on my hands-on experience with RLWE modular multipliers, Vivado, and OpenLane flows.
-
-| # | Repository | Domain | Key Highlights | Status |
-|---|------------|--------|----------------|--------|
-| 1 | [rlwe-modular-multiplier-pqc](https://github.com/sahilmaurya007/rlwe-modular-multiplier-pqc) | PQC Acceleration | 4-stage pipelined Montgomery + Barrett reduction; 2.1× throughput | FPGA + OpenLane ASIC |
-| 2 | [kyber-ntt-accelerator](https://github.com/sahilmaurya007/kyber-ntt-accelerator) | PQC (Kyber) | 512-point radix-2 NTT; 1.2 µs latency, clock-gated | Vivado + OpenLane |
-| 3 | [riscv-pqc-coprocessor](https://github.com/sahilmaurya007/riscv-pqc-coprocessor) | RISC-V + PQC | RV32I with custom PQC instructions + AXI4 integration | Full SoC (FPGA/ASIC) |
-| 4 | [dilithium-gaussian-sampler-asic](https://github.com/sahilmaurya007/dilithium-gaussian-sampler-asic) | Digital VLSI + PQC | Constant-time CDT/Knuth-Yao sampler in Sky130 PDK | OpenLane GDSII ready |
-| 5 | [axi-crypto-interconnect](https://github.com/sahilmaurya007/axi-crypto-interconnect) | RISC-V SoC | 4-master AXI4 crossbar for multiple PQC IPs | Vivado block design |
-| 6 | [lowpower-ntt-vlsi](https://github.com/sahilmaurya007/lowpower-ntt-vlsi) | Digital VLSI | Fine-grained clock gating; 35% dynamic power reduction | Synopsys / OpenLane |
-| 7 | [sidechannel-resistant-kyber](https://github.com/sahilmaurya007/sidechannel-resistant-kyber) | PQC Security | Masked arithmetic NTT with dual-rail logic | FPGA + leakage analysis |
-| 8 | [riscv-pqc-secure-soc](https://github.com/sahilmaurya007/riscv-pqc-secure-soc) | Advanced SoC | Complete RISC-V SoC with integrated PQC coprocessor | Bootable on FPGA |
-
-**Repository Standards**: Each repo contains synthesizable Verilog, comprehensive testbenches, synthesis/STA reports, power analysis, GTKWave screenshots, and a detailed professional README with PPA metrics (LUTs, power, delay, area).
+- **Post-Quantum Cryptography (PQC) Hardware Acceleration:** Designing high-throughput, low-latency, and side-channel hardened accelerators for **CRYSTALS-Kyber (KEM)** and **CRYSTALS-Dilithium (Signature)** .
+- **RISC-V System-on-Chip (SoC) Design:** Developing custom RISC-V cores, integrating cryptographic IPs via AXI/APB buses, and building full SoC systems for security-critical applications.
+- **Digital VLSI Design & ASIC Flow:** Mastering the RTL-to-GDSII flow, focusing on Power, Performance, and Area (PPA) optimization, physical design, and timing closure for complex digital systems.
 
 ---
 
-## Publications
+### 🛠️ Technical Arsenal
 
-- S. Maurya et al., “Hardware Acceleration of RLWE-Based Modular Multiplication for CRYSTALS-Kyber on FPGA and ASIC,” *IEEE Transactions on Circuits and Systems I* (under review).  
-- S. Maurya et al., “A RISC-V SoC with Integrated Post-Quantum Cryptographic Coprocessor using OpenLane Flow,” *IEEE International Symposium on Circuits and Systems (ISCAS)*, 2026 (targeted).
-
-(Google Scholar and arXiv links will be updated upon acceptance)
-
----
-
-## 📫 Get in Touch
-
-- **Email**: [your.email@iitmandi.ac.in](mailto:your.email@iitmandi.ac.in)  
-- **Lab**: [A²DSL Lab, SCEE, IIT Mandi](https://www.iitmandi.ac.in)  
-- **Location**: Kamand Campus, Mandi, Himachal Pradesh, India  
-
-*"Building trustworthy hardware for the post-quantum era."*
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Languages** | **Verilog**, **SystemVerilog** (UVM), VHDL, C, Assembly (RISC-V, x86), Python, TCL |
+| **EDA Tools** | **Xilinx Vivado**, Intel Quartus, **Synopsys Design Compiler**, **Cadence Genus/Innovus**, **OpenROAD/OpenLane**, ModelSim, QuestaSim |
+| **Methodologies** | RTL Design, Logic Synthesis, Static Timing Analysis (STA), Physical Design, Formal Verification, FPGA Prototyping, Hardware Security (SCA) |
+| **Technologies** | **RISC-V (RV32I/M)**, AXI/APB Buses, **NIST PQC (Kyber, Dilithium)**, RLWE, Modular Arithmetic, DSP Blocks |
 
 ---
 
-**Last Updated**: March 2026  
-All repositories are actively maintained with regular commits of RTL updates, synthesis results, and documentation.
+### 📚 Selected Publications
+
+1.  **S. Maurya**, A. Kumar, and R. Sharma, "A High-Throughput Hardware Architecture for CRYSTALS-Kyber Polynomial Multiplication," in *IEEE International Symposium on Circuits and Systems (ISCAS)*, 2024. (Under Review)
+2.  **S. Maurya** and V. Singh, "A Lightweight RISC-V SoC with an Integrated Post-Quantum Cryptographic Accelerator," in *IEEE International Conference on VLSI Design (VLSID)*, 2025. (To Appear)
+3.  **S. Maurya**, "Efficient Number Theoretic Transform (NTT) Architectures for RLWE-based Cryptography," *arXiv preprint*, 2024.
+
+*(Replace with your actual publications or pre-prints. Use IEEE citation style.)*
+
+---
+
+### ⚡ Featured Projects
+
+> **1. [Kyber-Hardware-Accelerator](https://github.com/sahilmaurya007/Kyber-Hardware-Accelerator)**
+> A high-performance, area-optimized hardware accelerator for the CRYSTALS-Kyber Key Encapsulation Mechanism (KEM). Features a novel, pipelined Number Theoretic Transform (NTT) architecture achieving high throughput on both FPGA and ASIC platforms.
+
+> **2. [RISC-V-PQC-SoC](https://github.com/sahilmaurya007/RISC-V-PQC-SoC)**
+> A full RISC-V (RV32IM) SoC integrating the Kyber accelerator as a custom co-processor via an APB bus. The system boots on a Xilinx Artix-7 FPGA, allowing a host CPU to perform post-quantum key exchange and encryption.
+
+> **3. [OpenLane-ASIC-Flow-for-RISC-V](https://github.com/sahilmaurya007/OpenLane-ASIC-Flow-for-RISC-V)**
+> A complete ASIC implementation of a custom RISC-V core using the OpenLane/OpenROAD flow. Includes all synthesis, floorplanning, placement, routing, and sign-off reports, culminating in a final GDSII layout.
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilmaurya007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=8b949e&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmaurya007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b949e&langs_count=8"/>
+</div>
+
+---
+
+### 📫 Get in Touch
+
+I am open to research collaborations, reviewing opportunities, and discussions about VLSI, hardware security, and RISC-V. Feel free to connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilmaurya007)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilmaurya007@students.iitmandi.ac.in)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,70:1a0a2e,100:0d1117&height=100&section=footer" width="100%"/>
+</div>
