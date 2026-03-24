@@ -1,5 +1,3 @@
-You're absolutely right! I apologize for the interruption. Let me provide the COMPLETE, UNIFIED single canvas with ALL sections including the Technical Proficiency and everything after it in one continuous flow.
-
 ```markdown
 <div align="center">
 
