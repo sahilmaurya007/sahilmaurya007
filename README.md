@@ -1,6 +1,3 @@
-# Sahil Maurya - Complete GitHub Profile README (With Animation & Auto-Sliding Background)
-
-```markdown
 <!--- 
 ==================================================================================
 SAHIL MAURYA | RESEARCH SCHOLAR @ IIT MANDI
