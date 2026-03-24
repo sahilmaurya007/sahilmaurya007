@@ -1,187 +1,100 @@
-# 🚀 NEXT LEVEL++ (APPLE-STYLE ULTRA PREMIUM PORTFOLIO + GITHUB)
+<div align="center">
 
----
-
-# 🔥 1. UPGRADED README (ANIMATED + PREMIUM)
-
-```
-<p align="center">
-  <img src="assets/banner.png" width="100%" />
-</p>
+# 🛠️ Sahil Maurya
+### **Research Scholar @ IIT Mandi | Post-Quantum Cryptography & RISC-V Architect**
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=2500&color=00F7FF&center=true&vCenter=true&width=1000&lines=Sahil+Maurya;Post-Quantum+Hardware+Researcher;RISC-V+SoC+Architect;Digital+VLSI+Engineer" />
-</p>
-
-<h1 align="center">⚡ Building Future Secure Hardware</h1>
-
----
-
-## 🧠 Research Domains
-
-- 🔐 Post-Quantum Cryptography (Kyber / Dilithium)
-- ⚙️ RISC-V Secure SoC Design
-- 🧠 AI Hardware Accelerators
-- 🛡️ Hardware Security
-
----
-
-## 🚀 Featured Work
-
-| Project | Description |
-|--------|------------|
-| PQC Accelerator | FPGA + ASIC secure crypto |
-| RISC-V Processor | Adaptive precision core |
-| Toom-Cook Multiplier | High-speed cryptography |
-
----
-
-## 📊 Live Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sahilmaurya007&show_icons=true&theme=tokyonight"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmaurya007&theme=tokyonight"/>
+  <img src="https://img.shields.io/badge/Research-IIT%20Mandi-blue?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/VLSI-Digital%20Design-orange?style=for-the-badge&logo=micro-strategy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Security-Post%20Quantum-red?style=for-the-badge&logo=securityscorecard&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 Vision
+![Banner](https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
+*Digital VLSI & Hardware Security Research*
 
-> Designing secure silicon for the post-quantum world
-```
-
----
-
-# 🌐 2. APPLE-STYLE ADVANCED PORTFOLIO WEBSITE (WITH ANIMATIONS)
-
-```
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Sahil Maurya | Ultra Portfolio</title>
-
-<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap" rel="stylesheet">
-
-<style>
-body {
-  margin: 0;
-  font-family: 'Poppins', sans-serif;
-  background: black;
-  color: white;
-  overflow-x: hidden;
-}
-
-header {
-  height: 100vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  text-align: center;
-  background: radial-gradient(circle, #001f3f, black);
-}
-
-h1 {
-  font-size: 4em;
-  animation: fadeIn 2s ease-in-out;
-}
-
-p {
-  font-size: 1.5em;
-  color: #00d9ff;
-}
-
-@keyframes fadeIn {
-  from { opacity: 0; transform: translateY(50px); }
-  to { opacity: 1; transform: translateY(0); }
-}
-
-section {
-  padding: 80px 10%;
-}
-
-.card {
-  background: #0f172a;
-  padding: 30px;
-  margin: 20px;
-  border-radius: 20px;
-  transition: 0.4s;
-}
-
-.card:hover {
-  transform: translateY(-10px) scale(1.05);
-  box-shadow: 0 0 30px #00d9ff;
-}
-
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-}
-
-</style>
-</head>
-
-<body>
-
-<header>
-<h1>Sahil Maurya</h1>
-<p>Digital VLSI | PQC | RISC-V | Hardware Security</p>
-</header>
-
-<section>
-<h2>🚀 Projects</h2>
-<div class="grid">
-<div class="card">🔐 PQC Accelerator</div>
-<div class="card">⚙️ RISC-V SoC</div>
-<div class="card">🧠 AI Hardware</div>
 </div>
-</section>
 
-<section>
-<h2>🧠 Research</h2>
-<div class="grid">
-<div class="card">Post-Quantum Security</div>
-<div class="card">Low Power ASIC</div>
-<div class="card">Secure Architectures</div>
+## 👨‍🔬 About Me
+I am a **Research Scholar** at the **School of Computing & Electrical Engineering (SCEE), IIT Mandi**. My work sits at the intersection of **Hardware Security** and **VLSI Architecture**, focusing on making next-generation processors resilient against quantum threats.
+
+- 🔭 **Current Focus**: Designing high-performance, side-channel resistant accelerators for **Kyber** and **Dilithium**.
+- 🧠 **Research Interests**: Neuromorphic Computing, Secure RISC-V SoC Development, and Energy-Efficient AI Hardware.
+- 🎓 **Academic Background**: M.Tech Gold Medalist from IIIT Guwahati.
+
+---
+
+## 🛠️ Technical Arsenal
+<table align="center">
+  <tr>
+    <td align="center" width="250"><b>Hardware Design</b></td>
+    <td align="center" width="250"><b>EDA & Prototyping</b></td>
+    <td align="center" width="250"><b>Languages & Tools</b></td>
+  </tr>
+  <tr>
+    <td>
+      • RISC-V ISA Extensions<br>
+      • PQC Accelerators (Kyber/Dilithium)<br>
+      • NTT/Polynomial Multipliers<br>
+      • Side-Channel Countermeasures
+    </td>
+    <td>
+      • Xilinx Vivado & Vitis HLS<br>
+      • Cadence Genus & Innovus<br>
+      • ASIC Flow (Nangate 45nm)<br>
+      • FPGA (ZCU102, Virtex-7, Zybo)
+    </td>
+    <td>
+      • Verilog / SystemVerilog<br>
+      • Python / C / C++<br>
+      • MATLAB / Simulink<br>
+      • Static Timing Analysis (STA)
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📚 Publications
+- 🏆 **HiPC 2025**: *Neuromorphic Adaptive Precision RISC-V Processor with Real-Time Precision Scaling.*
+- 📄 **IEEE SILCON 2024**: *Approximate Modular Multipliers for R-LWE Cryptosystems on FPGAs and ASICs.*
+
+---
+
+## 🚀 Featured Projects
+### 🛡️ Secure PQC SoC Integration
+Integrating Lattice-based cryptography (Kyber) into a custom RISC-V pipeline. Focused on optimizing Area-Time-Product (ATP) and side-channel leakage.
+
+### 🧠 Neuromorphic RISC-V Accelerator
+Designed a real-time precision scaling unit for neuronal state management, improving energy efficiency by 40% for AI workloads.
+
+### ⚡ Toom-Cook Multiplier Architectures
+Hardware implementation of 32-bit Toom-Cook-2.5 and Toom-Cook-3 algorithms for high-speed cryptographic operations.
+
+---
+
+## 🎓 Education & Achievements
+- 🏫 **IIT Mandi**: Research Scholar (CGPA: 8.33)
+- 🏫 **IIIT Guwahati**: M.Tech in VLSI (CGPA: 9.11 - **Batch Topper**)
+- 🏅 **Certifications**: System Design using Verilog, VSD Static Timing Analysis, Python for AI.
+
+---
+
+## 📊 GitHub Analytics
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilmaurya007&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmaurya007&layout=compact&theme=radical" />
+</p>
+
+---
+
+## 📫 Let's Connect
+<p align="left">
+<a href="mailto:d24204@students.iitmandi.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://linkedin.com/in/sahilmaurya007"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</p>
+
+<div align="center">
+  <sub>Built with ❤️ and Verilog. 🚀</sub>
 </div>
-</section>
-
-<section>
-<h2>📫 Contact</h2>
-<div class="card">d24204@students.iitmandi.ac.in</div>
-</section>
-
-</body>
-</html>
-```
-
----
-
-# 🎨 3. ULTRA 4K CINEMATIC BANNER PROMPT
-
-```
-Ultra realistic futuristic semiconductor chip, glowing neon circuits, FPGA grid, ASIC layout, post-quantum cryptography lattice structures, RISC-V processor core, cyberpunk blue lighting, depth of field, cinematic shadows, 4K ultra HD, highly detailed, modern research aesthetic
-```
-
----
-
-# ⚡ FINAL RESULT
-
-✔ Apple-level UI Portfolio
-✔ Animated Website
-✔ Research-Focused Branding
-✔ Elite GitHub Presence
-
----
-
-# 🚀 FINAL UPGRADE OPTION
-
-If you want absolute top tier:
-
-👉 3D interactive chip website (Three.js)
-👉 Live FPGA simulation demo UI
-👉 Research paper showcase with animations
-
-Just say: **"ULTIMATE LEVEL"** 🔥
