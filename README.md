@@ -1,100 +1,101 @@
 <div align="center">
 
-# 🛠️ Sahil Maurya
-### **Research Scholar @ IIT Mandi | Post-Quantum Cryptography & RISC-V Architect**
+# 🚀 Sahil Maurya
+### **Research Scholar @ IIT Mandi | PQC Architect | RISC-V SoC Developer**
+
+<!-- Sliding Banner Section -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003366,100:000000&height=250&section=header&text=VLSI%20%7C%20PQC%20%7C%20RISC-V&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+</p>
+
+<!-- Image Carousel / Slideshow (Using an animated SVG or GIF service) -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJvYnB0Znp6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjP90Xf059qwg/giphy.gif" width="600" alt="VLSI Animation" />
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Research-IIT%20Mandi-blue?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/IIT%20Mandi-Research-blue?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/PQC-Post%20Quantum-red?style=for-the-badge&logo=securityscorecard&logoColor=white" />
   <img src="https://img.shields.io/badge/VLSI-Digital%20Design-orange?style=for-the-badge&logo=micro-strategy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Security-Post%20Quantum-red?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/RISC--V-SoC%20Arch-green?style=for-the-badge&logo=linux&logoColor=white" />
 </p>
 
 ---
 
-![Banner](https://images.unsplash.com/photo-1518770660439-4636190af475?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80)
-*Digital VLSI & Hardware Security Research*
+## 👨‍💻 Research Vision
+> *"Securing the digital future through hardware-accelerated Post-Quantum Cryptography and adaptive RISC-V architectures."*
 
 </div>
 
-## 👨‍🔬 About Me
-I am a **Research Scholar** at the **School of Computing & Electrical Engineering (SCEE), IIT Mandi**. My work sits at the intersection of **Hardware Security** and **VLSI Architecture**, focusing on making next-generation processors resilient against quantum threats.
+## 🛠️ Technical Ecosystem
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmaurya007&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-- 🔭 **Current Focus**: Designing high-performance, side-channel resistant accelerators for **Kyber** and **Dilithium**.
-- 🧠 **Research Interests**: Neuromorphic Computing, Secure RISC-V SoC Development, and Energy-Efficient AI Hardware.
-- 🎓 **Academic Background**: M.Tech Gold Medalist from IIIT Guwahati.
+<br>
 
----
-
-## 🛠️ Technical Arsenal
 <table align="center">
   <tr>
-    <td align="center" width="250"><b>Hardware Design</b></td>
-    <td align="center" width="250"><b>EDA & Prototyping</b></td>
-    <td align="center" width="250"><b>Languages & Tools</b></td>
+    <td align="center" width="300">
+      <h3>🛡️ Hardware Security</h3>
+      Kyber, Dilithium, Side-Channel Resistance, NTT Units, Secure Key Storage
+    </td>
+    <td align="center" width="300">
+      <h3>🧠 AI & Compute</h3>
+      Neuromorphic Computing, Adaptive Precision, RISC-V Extensions, HLS Optimization
+    </td>
   </tr>
   <tr>
-    <td>
-      • RISC-V ISA Extensions<br>
-      • PQC Accelerators (Kyber/Dilithium)<br>
-      • NTT/Polynomial Multipliers<br>
-      • Side-Channel Countermeasures
+    <td align="center" width="300">
+      <h3>⚡ EDA Tools</h3>
+      Vivado, Vitis, Cadence Genus/Innovus, Xcelium, ModelSim, ASIC Design Flow
     </td>
-    <td>
-      • Xilinx Vivado & Vitis HLS<br>
-      • Cadence Genus & Innovus<br>
-      • ASIC Flow (Nangate 45nm)<br>
-      • FPGA (ZCU102, Virtex-7, Zybo)
-    </td>
-    <td>
-      • Verilog / SystemVerilog<br>
-      • Python / C / C++<br>
-      • MATLAB / Simulink<br>
-      • Static Timing Analysis (STA)
+    <td align="center" width="300">
+      <h3>📡 Prototyping</h3>
+      ZCU102, Virtex-7, Zybo Z7, FPGA-based SoC Integration
     </td>
   </tr>
 </table>
 
 ---
 
-## 📚 Publications
+## 📚 Latest Research & Publications
+<details open>
+<summary><b>Click to expand my research highlights</b></summary>
+
 - 🏆 **HiPC 2025**: *Neuromorphic Adaptive Precision RISC-V Processor with Real-Time Precision Scaling.*
 - 📄 **IEEE SILCON 2024**: *Approximate Modular Multipliers for R-LWE Cryptosystems on FPGAs and ASICs.*
+- 🛠️ **M.Tech Project**: *Toom-Cook Multiplication for Cryptosystems (IIIT Guwahati - Gold Medalist).*
+
+</details>
 
 ---
 
-## 🚀 Featured Projects
-### 🛡️ Secure PQC SoC Integration
-Integrating Lattice-based cryptography (Kyber) into a custom RISC-V pipeline. Focused on optimizing Area-Time-Product (ATP) and side-channel leakage.
-
-### 🧠 Neuromorphic RISC-V Accelerator
-Designed a real-time precision scaling unit for neuronal state management, improving energy efficiency by 40% for AI workloads.
-
-### ⚡ Toom-Cook Multiplier Architectures
-Hardware implementation of 32-bit Toom-Cook-2.5 and Toom-Cook-3 algorithms for high-speed cryptographic operations.
-
----
-
-## 🎓 Education & Achievements
-- 🏫 **IIT Mandi**: Research Scholar (CGPA: 8.33)
-- 🏫 **IIIT Guwahati**: M.Tech in VLSI (CGPA: 9.11 - **Batch Topper**)
-- 🏅 **Certifications**: System Design using Verilog, VSD Static Timing Analysis, Python for AI.
-
----
-
-## 📊 GitHub Analytics
+## 📊 Performance Analytics
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sahilmaurya007&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmaurya007&layout=compact&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sahilmaurya007&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmaurya007&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🎥 Skills in Motion
+<p align="center">
+  <a href="https://github.com/sahilmaurya007">
+    <img src="https://skillicons.dev/icons?i=verilog,cpp,py,matlab,linux,git,github,bash,ubuntu,vscode,visualstudio" />
+  </a>
 </p>
 
 ---
 
 ## 📫 Let's Connect
-<p align="left">
-<a href="mailto:d24204@students.iitmandi.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://linkedin.com/in/sahilmaurya007"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<p align="center">
+  <a href="mailto:d24204@students.iitmandi.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/sahilmaurya007"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <div align="center">
-  <sub>Built with ❤️ and Verilog. 🚀</sub>
+  <img src="https://komarev.com/ghpvc/?username=sahilmaurya007&color=blueviolet" alt="Profile Views" />
+  <br>
+  <sub>© 2026 Sahil Maurya | Research & Innovation 🚀</sub>
 </div>
