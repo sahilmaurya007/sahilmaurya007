@@ -1,356 +1,251 @@
 <div align="center">
 
-<!-- 🌊 Animated Header with Fixed Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00d4ff,7c3aed,ff6b6b,0a0f1a&height=240&section=header&text=Sahil%20Maurya&fontSize=58&fontColor=ffffff&fontAlignY=40&desc=VLSI%20%7C%20Post-Quantum%20Cryptography%20%7C%20RISC-V%20SoC%20Architect&descSize=17&descColor=e0e0ff&descAlignY=60&animation=fadeIn&fontAlign=50" width="100%"/>
+<div style="background: #000000; 
+            padding: 3rem 2rem; 
+            border-radius: 60px; 
+            margin: 0 auto; 
+            box-shadow: 0 0 80px rgba(0, 212, 255, 0.25); 
+            border: 4px solid #00d4ff;">
 
-<!-- ⌨️ Typing Animation - Fixed URL -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,100:7c3aed&height=280&section=header&text=Sahil%20Maurya&fontSize=80&fontColor=ffffff&fontAlignY=35&desc=PhD%20Researcher%20%7C%20VLSI%20%7C%20Post-Quantum%20Cryptography&descSize=22&descColor=ffffff&descAlignY=55&animation=twinkling" 
+     width="100%" 
+     alt="Sahil Maurya Header"/>
+
+<br>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&duration=3000&pause=1200&color=00F5FF&center=true&vCenter=true&width=900&lines=🔐+POST-QUANTUM+CRYPTOGRAPHY+HARDWARE+ARCHITECT;⚡+RISC-V+SoC+DESIGNER+%7C+DIGITAL+VLSI+RESEARCHER;🏅+GOLD+MEDALIST+%7C+IIT+MANDI+PHD+SCHOLAR;🖥️+BUILDING+QUANTUM-RESISTANT+SILICON+FOR+AI" alt="Typing Animation" />
+  <img src="https://komarev.com/ghpvc/?username=sahilmaurya007&label=📡+RADAR+VISITORS&color=00d4ff&style=for-the-badge&abbreviated=true" 
+       alt="Live Visitors" />
+  <a href="https://www.iitmandi.ac.in/">
+    <img src="https://img.shields.io/badge/INSTITUTION-IIT%20MANDI-00d4ff?style=for-the-badge&logo=academia&logoColor=white" 
+         alt="IIT Mandi Badge" />
+  </a>
+  <img src="https://img.shields.io/badge/RANK-GOLD%20MEDALIST-FFD700?style=for-the-badge&logo=trophy&logoColor=black" 
+       alt="Gold Medalist" />
+  <img src="https://img.shields.io/badge/STATUS-ACTIVE_RESEARCH-green?style=for-the-badge" 
+       alt="Active Status" />
 </p>
 
-<!-- 📊 Quick Stats Dashboard - Colorful Cards -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahilmaurya007&label=✨%20VISITORS&color=00d4ff&style=for-the-badge&abbreviated=true" />
-  <a href="https://www.iitmandi.ac.in/"><img src="https://img.shields.io/badge/🎓_PHD_SCHOLAR-IIT_MANDI-00d4ff?style=for-the-badge&logo=academia&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/🏆_GOLD_MEDAL-M.Tech_VLSI-FFD700?style=for-the-badge&logo=trophy&logoColor=1a1a2e" />
-  <img src="https://img.shields.io/badge/⭐_CGPA-9.11%2F10-2ecc71?style=for-the-badge&logo=star&logoColor=white" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=26&duration=2500&pause=1000&color=00F5FF&center=true&vCenter=true&width=900&lines=>>+INITIALIZING+PQC+ACCELERATORS...;>>+ARCHITECTING+SECURE+RISC-V+SoC;>>+SYNTHESIZING+7nm+FINFET+LAYOUTS;>>+LOCATION:+A²-DSL+LAB+@+IIT+MANDI" 
+       alt="Typing Animation" />
 </p>
 
-<!-- 🎨 Enhanced Profile Card with Gradient Border -->
-<table align="center" width="100%" style="background: linear-gradient(145deg, rgba(10,20,40,0.9), rgba(20,30,60,0.95)); backdrop-filter: blur(25px); border-radius: 40px; border: 2px solid transparent; background-clip: padding-box; box-shadow: 0 20px 50px rgba(0,212,255,0.25), inset 0 1px 0 rgba(255,255,255,0.1); margin: 25px 0; border-collapse: separate;">
+<table align="center" 
+       width="100%" 
+       style="background: #080808; 
+              border-radius: 50px; 
+              border: 2px solid #ffffff; 
+              margin: 30px 0; 
+              border-collapse: separate; 
+              box-shadow: 10px 10px 0px #00d4ff;">
   <tr>
-    <td width="35%" align="center" style="padding: 35px 25px; border-right: 1px solid rgba(0,212,255,0.15);">
-      <div style="position: relative; display: inline-block;">
-        <div style="position: absolute; inset: -4px; background: linear-gradient(45deg, #00d4ff, #7c3aed, #ff6b6b); border-radius: 34px; animation: pulse 3s infinite; opacity: 0.6;"></div>
-        <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/SAHIL.jpg" width="230px" style="border-radius: 30px; border: 4px solid #0a0f1a; position: relative; box-shadow: 0 10px 40px rgba(0,0,0,0.5);" />
+    <td width="38%" 
+        align="center" 
+        style="padding: 50px; border-right: 1px solid #222;">
+      <div style="position: relative;">
+        <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/SAHIL.jpg" 
+             width="250px" 
+             style="border-radius: 50px; 
+                    border: 6px solid #00d4ff; 
+                    box-shadow: 0 0 30px rgba(0,212,255,0.5);" 
+             alt="Sahil Maurya Portrait"/>
       </div>
-      <br><br>
-      <h2 style="margin:0; color:#ffffff; font-family: 'Orbitron', sans-serif; letter-spacing: 3px; text-shadow: 0 0 20px rgba(0,212,255,0.5);">SAHIL MAURYA</h2>
-      <p style="color:#00d4ff; font-weight: 700; margin: 8px 0 4px 0; font-size: 1.1em;">🔬 PhD Researcher @ <a href="https://www.iitmandi.ac.in/" style="color:#7c3aed; text-decoration:none; font-weight:600;">IIT Mandi</a></p>
-      <p style="color:#a0c0ff; font-size: 0.95em; margin: 4px 0;"><a href="https://a2dsl.vercel.app/" style="color:#ff6b6b; text-decoration:none; font-weight:600;">🧪 A²-DSL Lab</a> | School of Computing & Electrical Eng.</p>
-      <div style="margin-top: 15px; display: flex; gap: 8px; justify-content: center; flex-wrap: wrap;">
-        <a href="mailto:d24204@students.iitmandi.ac.in"><img src="https://img.shields.io/badge/📧-Email-ff4d6d?style=flat-square&logo=gmail&logoColor=white" /></a>
-        <a href="https://linkedin.com/in/sahilmaurya007"><img src="https://img.shields.io/badge/🔗-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-        <a href="https://sahilmaurya007.github.io/sahil-maurya-website/"><img src="https://img.shields.io/badge/🌐-Portfolio-00f2ff?style=flat-square&logo=vercel&logoColor=1a1a2e" /></a>
-        <a href="https://github.com/sahilmaurya007"><img src="https://img.shields.io/badge/💻-GitHub-ffffff?style=flat-square&logo=github&logoColor=1a1a2e" /></a>
-      </div>
+      <br>
+      <h1 style="margin:0; color:#ffffff; font-family: 'Orbitron'; letter-spacing: 3px; font-size: 2.5em;">Sahil Maurya</h1>
+      <p style="color:#00d4ff; font-weight: 900; font-size: 1.5em; margin: 15px 0;">PhD RESEARCH SCHOLAR</p>
+      <a href="https://a2dsl.vercel.app/" 
+         style="background: #ffffff; 
+                color: #000; 
+                padding: 12px 25px; 
+                border-radius: 30px; 
+                text-decoration: none; 
+                font-weight: 900; 
+                font-size: 1em; 
+                box-shadow: 0 4px 15px rgba(255,255,255,0.2);">EXPLORE A²-DSL LAB</a>
     </td>
-    <td width="65%" style="padding: 30px 35px; vertical-align: top;">
-      <h2 style="color:#00d4ff; margin-top:0; font-family: 'Orbitron', sans-serif; display: flex; align-items: center; gap: 10px;">
-        <span style="font-size: 1.4em;">🧬</span> Research Ecosystem
-      </h2>
-      <p style="color: #d0e8ff; line-height: 1.7; font-size: 1.05em; margin-bottom: 20px;">
-        Architecting <b style="color:#00d4ff;">Quantum-Resistant Hardware</b> & secure <b style="color:#7c3aed;">RISC-V SoCs</b>. Bridging cryptographic theory with high-performance silicon for the post-quantum era.
+    <td width="62%" 
+        style="padding: 45px; vertical-align: top;">
+      <h2 style="color:#ffffff; 
+                 margin-top:0; 
+                 font-family: 'Orbitron'; 
+                 font-size: 2em; 
+                 border-bottom: 3px solid #00d4ff; 
+                 display: inline-block; 
+                 padding-bottom: 5px;">🚀 MISSION OVERVIEW</h2>
+      <p style="color: #ffffff; 
+                line-height: 1.8; 
+                font-size: 1.2em; 
+                margin-top: 20px; 
+                font-weight: 500;">
+        Currently pursuing PhD at <a href="https://www.iitmandi.ac.in/" style="color:#00d4ff; text-decoration:none;">IIT Mandi</a>, I specialize in <b>Hardware Security Architectures</b> and <b>Post-Quantum Cryptography (PQC)</b>. 
+        My core objective is to design high-performance <b>RISC-V SoC pipelines</b> that are resilient against future quantum threats through advanced NTT hardware acceleration and side-channel countermeasures.
       </p>
-      
-      <!-- 🎯 Enhanced Research Cards with Hover Glow -->
-      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-top: 10px;">
-        <div style="background: linear-gradient(135deg, rgba(0,212,255,0.12), rgba(0,212,255,0.04)); padding: 14px 16px; border-radius: 18px; border: 1px solid rgba(0,212,255,0.3); box-shadow: 0 4px 15px rgba(0,212,255,0.1);">
-           <span style="font-size: 1.3em;">🔐</span> <b style="color:#00d4ff;">Post-Quantum Crypto</b><br>
-           <small style="color:#9fb3c8;">Kyber • Dilithium • NTT Acceleration • Lattice-Based</small>
-        </div>
-        <div style="background: linear-gradient(135deg, rgba(124,58,237,0.12), rgba(124,58,237,0.04)); padding: 14px 16px; border-radius: 18px; border: 1px solid rgba(124,58,237,0.3); box-shadow: 0 4px 15px rgba(124,58,237,0.1);">
-           <span style="font-size: 1.3em;">⚙️</span> <b style="color:#7c3aed;">SoC Architecture</b><br>
-           <small style="color:#b8a9d9;">RISC-V • Custom ISA • AXI4/TL-UL • NoC Design</small>
-        </div>
-        <div style="background: linear-gradient(135deg, rgba(255,107,107,0.12), rgba(255,107,107,0.04)); padding: 14px 16px; border-radius: 18px; border: 1px solid rgba(255,107,107,0.3); box-shadow: 0 4px 15px rgba(255,107,107,0.1);">
-           <span style="font-size: 1.3em;">🖥️</span> <b style="color:#ff6b6b;">Digital VLSI</b><br>
-           <small style="color:#ffb3b3;">RTL-to-GDSII • 7nm FinFET • Low-Power • DFT</small>
-        </div>
-        <div style="background: linear-gradient(135deg, rgba(46,204,113,0.12), rgba(46,204,113,0.04)); padding: 14px 16px; border-radius: 18px; border: 1px solid rgba(46,204,113,0.3); box-shadow: 0 4px 15px rgba(46,204,113,0.1);">
-           <span style="font-size: 1.3em;">🛡️</span> <b style="color:#2ecc71;">Hardware Security</b><br>
-           <small style="color:#a8e6cf;">SCA Resistance • PUF • Masking • Root-of-Trust</small>
-        </div>
+      <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 20px; margin-top: 35px;">
+        <div style="background: #00d4ff; color: #000; padding: 20px; border-radius: 20px; font-weight: 900; text-align: center; font-size: 1.1em; box-shadow: 4px 4px 0px #ffffff;">🔐 PQC HARDWARE</div>
+        <div style="background: #7c3aed; color: #fff; padding: 20px; border-radius: 20px; font-weight: 900; text-align: center; font-size: 1.1em; box-shadow: 4px 4px 0px #ffffff;">⚙️ RISC-V SoC</div>
+        <div style="background: #ff6b6b; color: #fff; padding: 20px; border-radius: 20px; font-weight: 900; text-align: center; font-size: 1.1em; box-shadow: 4px 4px 0px #ffffff;">🖥️ DIGITAL VLSI</div>
+        <div style="background: #2ecc71; color: #fff; padding: 20px; border-radius: 20px; font-weight: 900; text-align: center; font-size: 1.1em; box-shadow: 4px 4px 0px #ffffff;">🛡️ HW SECURITY</div>
       </div>
     </td>
   </tr>
 </table>
 
-<!-- 🗺️ Enhanced Research Roadmap with Progress Indicators -->
-<div style="background: linear-gradient(145deg, rgba(255,255,255,0.03), rgba(255,255,255,0.01)); border-radius: 36px; padding: 2.2rem 2rem; margin: 35px 0; border: 1.5px solid rgba(255,255,255,0.08); box-shadow: inset 0 1px 0 rgba(255,255,255,0.05);">
-  <h2 align="center" style="color:#ff6b6b; font-family: 'Orbitron', sans-serif; margin-bottom: 5px;">🛰️ Research Roadmap</h2>
-  <p align="center" style="color:#8b949e; margin-bottom: 28px; font-size: 1.05em;"><i>PhD Milestones & Current Trajectory</i></p>
+<div style="background: #050505; 
+            border-radius: 40px; 
+            padding: 3rem; 
+            margin: 40px 0; 
+            border: 3px solid #7c3aed; 
+            box-shadow: inset 0 0 20px rgba(124, 58, 237, 0.2);">
+  <h2 align="center" style="color:#ffffff; font-family: 'Orbitron'; font-weight: 900; font-size: 2.2em; letter-spacing: 2px;">📈 RESEARCH & CODING VELOCITY</h2>
+  <p align="center" style="color:#8b949e; margin-bottom: 30px;">Real-time visualization of academic and technical contributions to open-source silicon.</p>
+  <div align="center">
+    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilmaurya007&theme=tokyonight&bg_color=00000000&color=00d4ff&line=7c3aed&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+  </div>
+</div>
+
+<div style="margin: 60px 0;">
+  <h2 align="center" style="color:#ffffff; font-family: 'Orbitron'; font-size: 2.8em; font-weight: 900;">🔬 SILICON REPOSITORY</h2>
+  <p align="center" style="color:#00d4ff; font-weight: bold; font-size: 1.2em; letter-spacing: 5px;">[ GDSII | LAYOUT | FABRICATION ]</p>
   
-  <table width="100%" style="color:#fff; border-collapse: collapse; font-size: 1.02em;">
-    <tr>
-      <td width="22%" align="center" style="padding: 8px 0;">
-        <div style="background: linear-gradient(135deg, #2ecc71, #27ae60); padding: 6px 18px; border-radius: 25px; display: inline-block; font-weight: 600; box-shadow: 0 4px 15px rgba(46,204,113,0.3);">
-          ✅ 2021-23
-        </div>
+  <div align="center" style="margin-top: 40px;">
+    <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/Gemini_Generated_Image_ru8yh6ru8yh6ru8y.png" 
+         width="98%" 
+         style="border-radius: 35px; border: 2px solid #ffffff; box-shadow: 0 20px 50px rgba(0,0,0,0.9);" 
+         alt="Main Silicon Layout"/>
+  </div>
+
+  <br><br>
+
+  <table align="center" width="100%" style="border-collapse: separate; border-spacing: 15px;">
+    <tr align="center">
+      <td style="background: #111; padding: 25px; border-radius: 30px; border: 2px solid #00d4ff;">
+        <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/Chip2GF180nm.png" width="200" style="border-radius: 15px; border: 2px solid #00d4ff;" />
+        <br><br><b style="color:#ffffff; font-size: 1.4em;">GF 180nm</b><br><span style="color:#00d4ff; font-weight:bold;">Mixed-Signal ASIC</span>
       </td>
-      <td style="padding-left: 15px; border-left: 3px solid #2ecc71;">
-        <b style="color:#2ecc71;">🎓 Gold Medalist @ IIIT Guwahati</b><br>
-        <span style="color:#b0c4d9;">Approximate Computing • Low-Power VLSI • Energy-Efficient Multipliers</span>
+      <td style="background: #111; padding: 25px; border-radius: 30px; border: 2px solid #7c3aed;">
+        <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/chip1skywater130nm.png" width="200" style="border-radius: 15px; border: 2px solid #7c3aed;" />
+        <br><br><b style="color:#ffffff; font-size: 1.4em;">Sky 130nm</b><br><span style="color:#7c3aed; font-weight:bold;">Secure RISC-V SoC</span>
       </td>
-    </tr>
-    <tr><td colspan="2"><div style="height: 25px;"></div></td></tr>
-    <tr>
-      <td align="center" style="padding: 8px 0;">
-        <div style="background: linear-gradient(135deg, #00d4ff, #00a3cc); padding: 6px 18px; border-radius: 25px; display: inline-block; font-weight: 600; box-shadow: 0 4px 15px rgba(0,212,255,0.3);">
-          🔄 2024
-        </div>
-      </td>
-      <td style="padding-left: 15px; border-left: 3px solid #00d4ff;">
-        <b style="color:#00d4ff;">⚡ Architecture Exploration (Phase I)</b><br>
-        <span style="color:#b0c4d9;">High-throughput NTT kernels • Kyber on 7nm FinFET • Area-Power Optimization</span>
-      </td>
-    </tr>
-    <tr><td colspan="2"><div style="height: 25px;"></div></td></tr>
-    <tr>
-      <td align="center" style="padding: 8px 0;">
-        <div style="background: linear-gradient(135deg, #ff6b6b, #ee5a5a); padding: 6px 18px; border-radius: 25px; display: inline-block; font-weight: 600; box-shadow: 0 4px 15px rgba(255,107,107,0.3);">
-          🎯 2025
-        </div>
-      </td>
-      <td style="padding-left: 15px; border-left: 3px solid #ff6b6b;">
-        <b style="color:#ff6b6b;">🔐 Secure SoC Integration (Phase II)</b><br>
-        <span style="color:#b0c4d9;">PQC-RISC-V Co-design • SCA-Resistant Pipelines • Hardware Root-of-Trust</span>
+      <td style="background: #111; padding: 25px; border-radius: 30px; border: 2px solid #ff6b6b;">
+        <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/chip3ASAPnm.png" width="200" style="border-radius: 15px; border: 2px solid #ff6b6b;" />
+        <br><br><b style="color:#ffffff; font-size: 1.4em;">ASAP 7nm</b><br><span style="color:#ff6b6b; font-weight:bold;">PQC Accelerator</span>
       </td>
     </tr>
   </table>
 </div>
 
-<!-- 📚 Enhanced Publications Table with Color Coding -->
-<div style="background: linear-gradient(145deg, rgba(124,58,237,0.08), rgba(124,58,237,0.02)); border-radius: 36px; padding: 2.2rem 2rem; margin: 35px 0; border: 1.5px solid rgba(124,58,237,0.35);">
-  <h2 align="center" style="color:#7c3aed; font-family: 'Orbitron', sans-serif; margin-bottom: 20px;">📚 Patents & Publications</h2>
+<div style="background: #080808; border-radius: 40px; padding: 3rem; margin: 40px 0; border: 2px solid #ffaa66;">
+  <h2 align="center" style="color:#ffffff; font-family: 'Orbitron'; font-weight: 900; font-size: 2.2em;">📚 PATENTS & PUBLICATIONS</h2>
+  <table width="95%" style="color:#fff; text-align: left; border-collapse: collapse; margin: auto; margin-top: 20px;">
+    <tr style="background: #ffaa66; color: #000; font-weight: 900;">
+      <th style="padding: 15px; border-radius: 10px 0 0 10px;">Type</th>
+      <th style="padding: 15px;">Title</th>
+      <th style="padding: 15px; border-radius: 0 10px 10px 0;">Venue</th>
+    </tr>
+    <tr style="border-bottom: 1px solid #333;">
+      <td style="padding: 15px;"><b>PATENT</b></td>
+      <td style="padding: 15px;">Approximate Modular Multiplier for R-LWE Crypto-systems</td>
+      <td style="padding: 15px;">Indian Patent Office (Filed)</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #333;">
+      <td style="padding: 15px;"><b>PAPER</b></td>
+      <td style="padding: 15px;">Neuromorphic Adaptive Precision RISC-V Architecture</td>
+      <td style="padding: 15px;">IEEE HiPC 2025</td>
+    </tr>
+    <tr>
+      <td style="padding: 15px;"><b>PAPER</b></td>
+      <td style="padding: 15px;">Approximate Modular Multipliers for R-LWE Lattice PQC</td>
+      <td style="padding: 15px;">IEEE SILCON 2024</td>
+    </tr>
+  </table>
+</div>
+
+<div style="background: #01080e; border-radius: 40px; padding: 3rem; margin: 40px 0; border: 2px solid #00d4ff; box-shadow: 0 0 40px rgba(0, 212, 255, 0.1);">
+  <h2 align="center" style="color:#ff6b6b; font-family: 'Orbitron'; font-size: 2em;">🏗️ PQC + RISC-V SoC INTEGRATION</h2>
+  <pre style="color: #00d4ff; font-family: 'Fira Code', monospace; font-size: 13px; line-height: 1.5; background: #000; padding: 25px; border-radius: 20px;">
+╔══════════════════════════════════════════════════════════════════════════════════════╗
+║                    SECURE RISC-V SoC WITH POST-QUANTUM ACCELERATOR                   ║
+╠══════════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                      ║
+║   ┌────────────────────────────────────────────────────────────────────────────┐     ║
+║   │           RISC-V Core (RV32IM) + PQC Custom Instruction Decoder            │     ║
+║   │  ┌────────────┐  ┌────────────┐  ┌────────────────────────────────────┐    │     ║
+║   │  │ Reg File   │  │    ALU     │  │  Kyber NTT | PolyMul | Keccak      │    │     ║
+║   │  └────────────┘  └────────────┘  └────────────────────────────────────┘    │     ║
+║   └────────────────────────────────────────────────────────────────────────────┘     ║
+║                                         │                                            ║
+║                                         ▼                                            ║
+║                             ┌─────────────────────────┐                              ║
+║                             │    AXI / APB Crossbar   │                              ║
+║                             └───────────┬─────────────┘                              ║
+║                                         │                                            ║
+║          ┌──────────────────────────────┼──────────────────────────────┐             ║
+║          ▼                              ▼                              ▼             ║
+║   ┌─────────────────┐          ┌─────────────────┐          ┌─────────────────┐      ║
+║   │ PQC Hardware    │          │   SRAM / BRAM   │          │   UART/GPIO     │      ║
+║   │ Accelerator     │          │   Controller    │          │   Peripherals   │      ║
+║   │ (Slave Port)    │          └─────────────────┘          └─────────────────┘      ║
+║   └─────────────────┘                                                                ║
+║                                                                                      ║
+║   🔐 SECURITY: Masked Logic | SCA-Resistant | Hardware Root-of-Trust | Glitch Det.   ║
+╚══════════════════════════════════════════════════════════════════════════════════════╝</pre>
+</div>
+
+<div style="background: #ffffff; border-radius: 60px; padding: 5rem 3rem; margin: 60px 0; border: 10px solid #000; box-shadow: 20px 20px 0px #00d4ff;">
+  <h2 align="center" style="color:#000; font-family: 'Orbitron'; font-weight: 950; font-size: 3.5em; letter-spacing: -2px;">📊 PERFORMANCE ANALYTICS</h2>
+  <p align="center" style="color:#333; font-weight: 800; font-size: 1.4em; margin-bottom: 50px; text-transform: uppercase;">[ STACK OVERVIEW & SYSTEM REPOSITORY STATS ]</p>
   
   <div align="center">
-    <table width="96%" style="color:#fff; text-align: left; border-collapse: collapse; border-radius: 20px; overflow: hidden; box-shadow: 0 10px 30px rgba(0,0,0,0.3);">
-      <thead>
-        <tr style="background: linear-gradient(90deg, rgba(124,58,237,0.3), rgba(0,212,255,0.2)); border-bottom: 2px solid rgba(124,58,237,0.5);">
-          <th style="padding: 14px 12px; color:#e0d4ff; font-weight: 700;">Type</th>
-          <th style="padding: 14px 12px; color:#e0d4ff; font-weight: 700;">Title</th>
-          <th style="padding: 14px 12px; color:#e0d4ff; font-weight: 700;">Venue</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr style="border-bottom: 1px solid rgba(255,255,255,0.08); background: rgba(255,255,255,0.02);">
-          <td style="padding: 14px 12px;"><img src="https://img.shields.io/badge/📄_PATENT-FILED-00d4ff?style=flat-square" /></td>
-          <td style="padding: 14px 12px; color:#d0e0ff;">Approximate Modular Multiplier for R-LWE Crypto-systems</td>
-          <td style="padding: 14px 12px;"><span style="background: rgba(0,212,255,0.15); padding: 4px 12px; border-radius: 15px; color:#00d4ff; font-size: 0.9em;">Indian Patent Office</span></td>
-        </tr>
-        <tr style="border-bottom: 1px solid rgba(255,255,255,0.08);">
-          <td style="padding: 14px 12px;"><img src="https://img.shields.io/badge/📝_PAPER-PUBLISHED-2ecc71?style=flat-square" /></td>
-          <td style="padding: 14px 12px; color:#d0e0ff;">Neuromorphic Adaptive Precision RISC-V Architecture</td>
-          <td style="padding: 14px 12px;"><span style="background: rgba(46,204,113,0.15); padding: 4px 12px; border-radius: 15px; color:#2ecc71; font-size: 0.9em;">IEEE HiPC 2025</span></td>
-        </tr>
-        <tr>
-          <td style="padding: 14px 12px;"><img src="https://img.shields.io/badge/📝_PAPER-PUBLISHED-2ecc71?style=flat-square" /></td>
-          <td style="padding: 14px 12px; color:#d0e0ff;">Approximate Modular Multipliers for R-LWE Lattice PQC</td>
-          <td style="padding: 14px 12px;"><span style="background: rgba(46,204,113,0.15); padding: 4px 12px; border-radius: 15px; color:#2ecc71; font-size: 0.9em;">IEEE SILCON 2024</span></td>
-        </tr>
-      </tbody>
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sahilmaurya007&show_icons=true&theme=omni&hide_border=false&border_color=000&title_color=000&icon_color=7c3aed&text_color=000&font_size=18&font_weight=800" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmaurya007&layout=compact&theme=omni&hide_border=false&border_color=000&title_color=000&text_color=000&font_size=18&font_weight=800" />
+  </div>
+  <br>
+  <div align="center">
+    <img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmaurya007&theme=omni&hide_border=false&border_color=000&background=ffffff&stroke=000&fire=7c3aed&ring=00d4ff" />
+  </div>
+</div>
+
+<div style="background: #00d4ff; padding: 5rem 2rem; border-radius: 70px; border: 8px solid #fff; box-shadow: 0 0 60px rgba(0,212,255,0.5);">
+  <h1 align="center" style="color:#000; font-family: 'Orbitron'; font-weight: 900; font-size: 4em;">📡 ESTABLISH UPLINK</h1>
+  
+  <div align="center" style="margin-top: 40px;">
+    <a href="mailto:d24204@students.iitmandi.ac.in"><img src="https://img.shields.io/badge/📧_EMAIL-REACH_OUT-000?style=for-the-badge&color=fff&labelColor=000" height="40" /></a>
+    &nbsp;
+    <a href="https://linkedin.com/in/sahilmaurya007"><img src="https://img.shields.io/badge/🔗_LINKEDIN-NETWORK-000?style=for-the-badge&color=fff&labelColor=000" height="40" /></a>
+    &nbsp;
+    <a href="https://sahilmaurya007.github.io/sahil-maurya-website/"><img src="https://img.shields.io/badge/🌐_WEBSITE-PORTFOLIO-000?style=for-the-badge&color=fff&labelColor=000" height="40" /></a>
+  </div>
+
+  <br><br>
+
+  <div align="center">
+    <table style="border: none; border-spacing: 20px;">
+      <tr>
+        <td style="padding: 10px;">
+           <a href="https://www.iitmandi.ac.in/" style="text-decoration:none;">
+             <div style="background: #000; color: #fff; padding: 25px 50px; border-radius: 60px; font-size: 1.8em; font-weight: 900; border: 5px solid #fff; box-shadow: 15px 15px 0px #050505;">
+               🏛️ <a href="https://www.iitmandi.ac.in/" style="color:#00d4ff; text-decoration:none;">IIT MANDI</a>
+             </div>
+           </a>
+        </td>
+        <td style="padding: 10px;">
+           <a href="https://a2dsl.vercel.app/" style="text-decoration:none;">
+             <div style="background: #000; color: #fff; padding: 25px 50px; border-radius: 60px; font-size: 1.8em; font-weight: 900; border: 5px solid #fff; box-shadow: 15px 15px 0px #050505;">
+               🔬 <a href="https://a2dsl.vercel.app/" style="color:#00d4ff; text-decoration:none;">A²-DSL LAB</a>
+             </div>
+           </a>
+        </td>
+      </tr>
     </table>
   </div>
 </div>
 
-<!-- 🔬 Enhanced Silicon Gallery with Grid Layout -->
-<div style="margin: 45px 0;">
-  <h2 align="center" style="color:#ff6b6b; font-family: 'Orbitron', sans-serif; margin-bottom: 25px;">🔬 Silicon Gallery & ASIC Layouts</h2>
-  
-  <div align="center">
-    <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/Gemini_Generated_Image_ru8yh6ru8yh6ru8y.png" width="96%" style="border-radius: 32px; border: 2px solid rgba(0, 212, 255, 0.5); box-shadow: 0 15px 50px rgba(0,212,255,0.25); margin-bottom: 35px;" />
-  </div>
-  
-  <table align="center" width="100%">
-    <tr align="center">
-      <td width="24%" style="padding: 12px;">
-        <div style="background: linear-gradient(145deg, rgba(0,212,255,0.1), rgba(0,212,255,0.03)); border-radius: 22px; padding: 15px 10px; border: 2px solid #00d4ff; box-shadow: 0 8px 25px rgba(0,212,255,0.2);">
-          <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/Chip2GF180nm.png" width="140" style="border-radius: 18px;" /><br>
-          <small style="color:#00d4ff; font-weight: 600; margin-top: 8px; display: block;">GF 180nm ASIC</small>
-        </div>
-      </td>
-      <td width="24%" style="padding: 12px;">
-        <div style="background: linear-gradient(145deg, rgba(124,58,237,0.1), rgba(124,58,237,0.03)); border-radius: 22px; padding: 15px 10px; border: 2px solid #7c3aed; box-shadow: 0 8px 25px rgba(124,58,237,0.2);">
-          <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/chip1skywater130nm.png" width="140" style="border-radius: 18px;" /><br>
-          <small style="color:#7c3aed; font-weight: 600; margin-top: 8px; display: block;">SkyWater 130nm SoC</small>
-        </div>
-      </td>
-      <td width="24%" style="padding: 12px;">
-        <div style="background: linear-gradient(145deg, rgba(255,107,107,0.1), rgba(255,107,107,0.03)); border-radius: 22px; padding: 15px 10px; border: 2px solid #ff6b6b; box-shadow: 0 8px 25px rgba(255,107,107,0.2);">
-          <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/chip3ASAPnm.png" width="140" style="border-radius: 18px;" /><br>
-          <small style="color:#ff6b6b; font-weight: 600; margin-top: 8px; display: block;">ASAP 7nm NTT Core</small>
-        </div>
-      </td>
-      <td width="24%" style="padding: 12px;">
-        <div style="background: linear-gradient(145deg, rgba(46,204,113,0.1), rgba(46,204,113,0.03)); border-radius: 22px; padding: 15px 10px; border: 2px solid #2ecc71; box-shadow: 0 8px 25px rgba(46,204,113,0.2);">
-          <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/chip4nangate45nm.png" width="140" style="border-radius: 18px;" /><br>
-          <small style="color:#2ecc71; font-weight: 600; margin-top: 8px; display: block;">Nangate 45nm PVT</small>
-        </div>
-      </td>
-    </tr>
-  </table>
+<div align="center" style="margin-top: 80px;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f1a,100:00d4ff&height=180&section=footer" width="100%"/>
+  <h2 style="color: #ffffff; font-family: 'Orbitron'; font-weight: 900; letter-spacing: 8px; font-size: 2.2em; text-transform: uppercase;">SYSTEM STATUS: SECURE</h2>
+  <p style="color:#00d4ff; font-size: 1.6em; font-weight: 900; margin-top: 10px;">© 2026 SAHIL MAURYA | <a href="https://www.iitmandi.ac.in/" style="color:#00d4ff; text-decoration:none;">IIT MANDI</a> RESEARCH SCHOLAR</p>
+  <p style="color: #555; font-size: 1em; letter-spacing: 2px;">Handcrafted with 🩻 Precision & ⚡ Logic at <a href="https://a2dsl.vercel.app/" style="color:#555; text-decoration:none;">A²-DSL Lab</a></p>
 </div>
 
-<!-- 🏗️ Enhanced ASCII Architecture Diagram with Better Contrast -->
-<div style="background: linear-gradient(145deg, #010812, #030a1a); border-radius: 36px; padding: 2.2rem; margin: 40px 0; border: 2px solid #00d4ff55; overflow-x: auto; box-shadow: 0 15px 45px rgba(0,212,255,0.15);">
-  <h2 align="center" style="color:#ff6b6b; font-family: 'Orbitron', sans-serif; margin-bottom: 20px;">🏗️ Secure SoC Integration Architecture</h2>
-  <pre style="color: #00f5ff; font-family: 'Fira Code', monospace; font-size: 12.5px; line-height: 1.5; background: rgba(0,15,30,0.6); padding: 20px; border-radius: 20px; border: 1px solid rgba(0,212,255,0.2);">
-╔════════════════════════════════════════════════════════════════════════════════╗
-║     🔐 SECURE RISC-V SoC WITH POST-QUANTUM CRYPTO ACCELERATOR (Kyber/Dilithium)║
-╠════════════════════════════════════════════════════════════════════════════════╣
-║  ┌──────────────────────────────────────────────────────────────────────────┐  ║
-║  │  🧠 RISC-V Core (RV32IM) + PQC Custom Instruction Extension (CIE)        │  ║
-║  │  ┌────────────┐  ┌────────────┐  ┌────────────────────────────────────┐ │  ║
-║  │  │ Reg File   │  │    ALU     │  │  🚀 PQC Accelerator Unit:          │ │  ║
-║  │  │ 32×32-bit  │  │ 32-bit     │  │  • Kyber NTT Butterfly (Radix-2/4) │ │  ║
-║  │  └────────────┘  └────────────┘  │  • PolyMul (NTT-based)             │ │  ║
-║  │                                  │  • Keccak-f[1600] (SHA-3)          │ │  ║
-║  │  ┌────────────────────────┐     │  • Gaussian Sampler (CTR+BoxMuller)│ │  ║
-║  │  │ Custom PQC Decoder     │     │  • Modular Arithmetic (Barrett/ Montgomery)││
-║  │  │ • NTT_LOAD/STORE       │     │  └────────────────────────────────┘ │ │  ║
-║  │  │ • POLYMUL_EXEC       │     └────────────────────────────────────┘ │  ║
-║  │  └────────────────────────┘                                          │  ║
-║  └──────────────────────────────────────────────────────────────────────┘  ║
-║                                    │                                        ║
-║                        ┌─────────────────────────┐                          ║
-║                        │  🔗 AXI4-Lite / APB Crossbar  │                    ║
-║                        │  • Priority Arbitration  │                        ║
-║                        │  • QoS-aware Scheduling  │                        ║
-║                        └───────────┬─────────────┘                          ║
-║         ┌──────────────────────────┼──────────────────────────┐             ║
-║         ▼                          ▼                          ▼             ║
-║  ┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐    ║
-║  │ 🔐 PQC Hardware │       │ 💾 Memory       │       │ 🔌 Peripherals  │    ║
-║  │ Accelerator     │       │ Subsystem       │       │                 │    ║
-║  │ • Masked Logic  │       │ • SRAM/BRAM     │       │ • UART/SPI      │    ║
-║  │ • SCA Counter-  │       │ • DMA Controller│       │ • GPIO/JTAG     │    ║
-║  │   measures      │       │ • ECC Protection│       │ • TRNG/PUF      │    ║
-║  └─────────────────┘       └─────────────────┘       └─────────────────┘    ║
-║                                                                              ║
-║  🛡️ Security Stack: Side-Channel Masking (1st/2nd order) • Fault Injection  ║
-║                    Detection • Hardware Root-of-Trust • Secure Boot          ║
-╚════════════════════════════════════════════════════════════════════════════════╝</pre>
-</div>
-
-<!-- 🛠️ Enhanced Skills Matrix with Animated Bars -->
-<div style="background: linear-gradient(145deg, rgba(0,15,30,0.7), rgba(0,10,25,0.9)); border-radius: 36px; padding: 2.2rem; margin: 40px 0; border: 1.5px solid rgba(0,212,255,0.3);">
-  <h2 align="center" style="color:#00d4ff; font-family: 'Orbitron', sans-serif; margin-bottom: 25px;">🛠️ Technical Proficiency</h2>
-  
-  <div style="max-width: 800px; margin: 0 auto; padding: 0 15px;">
-    <!-- Skill Item Template -->
-    <div style="margin-bottom: 22px;">
-      <div style="display: flex; justify-content: space-between; margin-bottom: 6px; color:#e0f0ff; font-weight: 500;">
-        <span>RTL Design (Verilog / SystemVerilog / UVM)</span>
-        <span style="color:#00d4ff; font-weight: 700;">95%</span>
-      </div>
-      <div style="background: rgba(255,255,255,0.08); border-radius: 12px; height: 14px; overflow: hidden; box-shadow: inset 0 2px 4px rgba(0,0,0,0.2);">
-        <div style="background: linear-gradient(90deg, #00d4ff, #00f5ff); width: 95%; height: 100%; border-radius: 12px; position: relative; animation: slideIn 1.2s ease-out;">
-          <div style="position: absolute; right: 8px; top: 2px; color:#0a0f1a; font-weight: 700; font-size: 10px;">EXPERT</div>
-        </div>
-      </div>
-    </div>
-    
-    <div style="margin-bottom: 22px;">
-      <div style="display: flex; justify-content: space-between; margin-bottom: 6px; color:#e0f0ff; font-weight: 500;">
-        <span>Physical Design (Innovus / Genus / PT / Calibre)</span>
-        <span style="color:#7c3aed; font-weight: 700;">88%</span>
-      </div>
-      <div style="background: rgba(255,255,255,0.08); border-radius: 12px; height: 14px; overflow: hidden; box-shadow: inset 0 2px 4px rgba(0,0,0,0.2);">
-        <div style="background: linear-gradient(90deg, #7c3aed, #9d7bef); width: 88%; height: 100%; border-radius: 12px; position: relative;">
-          <div style="position: absolute; right: 8px; top: 2px; color:#1a1a2e; font-weight: 700; font-size: 10px;">ADVANCED</div>
-        </div>
-      </div>
-    </div>
-    
-    <div style="margin-bottom: 22px;">
-      <div style="display: flex; justify-content: space-between; margin-bottom: 6px; color:#e0f0ff; font-weight: 500;">
-        <span>PQC Algorithm Acceleration (Lattice-Based Crypto)</span>
-        <span style="color:#ff6b6b; font-weight: 700;">92%</span>
-      </div>
-      <div style="background: rgba(255,255,255,0.08); border-radius: 12px; height: 14px; overflow: hidden; box-shadow: inset 0 2px 4px rgba(0,0,0,0.2);">
-        <div style="background: linear-gradient(90deg, #ff6b6b, #ff8e8e); width: 92%; height: 100%; border-radius: 12px; position: relative;">
-          <div style="position: absolute; right: 8px; top: 2px; color:#1a0a0a; font-weight: 700; font-size: 10px;">EXPERT</div>
-        </div>
-      </div>
-    </div>
-    
-    <div style="margin-bottom: 22px;">
-      <div style="display: flex; justify-content: space-between; margin-bottom: 6px; color:#e0f0ff; font-weight: 500;">
-        <span>Hardware Security (SCA, PUF, Masking)</span>
-        <span style="color:#2ecc71; font-weight: 700;">85%</span>
-      </div>
-      <div style="background: rgba(255,255,255,0.08); border-radius: 12px; height: 14px; overflow: hidden; box-shadow: inset 0 2px 4px rgba(0,0,0,0.2);">
-        <div style="background: linear-gradient(90deg, #2ecc71, #58d68d); width: 85%; height: 100%; border-radius: 12px; position: relative;">
-          <div style="position: absolute; right: 8px; top: 2px; color:#0a1a0f; font-weight: 700; font-size: 10px;">ADVANCED</div>
-        </div>
-      </div>
-    </div>
-    
-    <div>
-      <div style="display: flex; justify-content: space-between; margin-bottom: 6px; color:#e0f0ff; font-weight: 500;">
-        <span>Tools: MATLAB / Python / C++ / TCL / Bash</span>
-        <span style="color:#f39c12; font-weight: 700;">90%</span>
-      </div>
-      <div style="background: rgba(255,255,255,0.08); border-radius: 12px; height: 14px; overflow: hidden; box-shadow: inset 0 2px 4px rgba(0,0,0,0.2);">
-        <div style="background: linear-gradient(90deg, #f39c12, #f5b041); width: 90%; height: 100%; border-radius: 12px; position: relative;">
-          <div style="position: absolute; right: 8px; top: 2px; color:#1a1205; font-weight: 700; font-size: 10px;">PROFICIENT</div>
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-<!-- 📊 Enhanced GitHub Analytics with Better Layout -->
-<div style="background: linear-gradient(145deg, rgba(15,10,30,0.8), rgba(10,15,35,0.95)); border-radius: 36px; padding: 2.2rem; margin: 40px 0; border: 1.5px solid rgba(124,58,237,0.4);">
-  <h2 align="center" style="color:#7c3aed; font-family: 'Orbitron', sans-serif; margin-bottom: 25px;">📊 GitHub Analytics</h2>
-  <div align="center" style="display: flex; gap: 25px; flex-wrap: wrap; justify-content: center;">
-    <img width="49%" min-width="320px" src="https://github-readme-stats.vercel.app/api?username=sahilmaurya007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00d4ff&icon_color=ff6b6b&text_color=c0e0ff&ring_color=7c3aed" />
-    <img width="49%" min-width="320px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmaurya007&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&title_color=00d4ff&text_color=c0e0ff&langs_count=8" />
-  </div>
-  
-  <!-- 🔥 Additional Stats Row -->
-  <div align="center" style="margin-top: 25px; display: flex; gap: 15px; flex-wrap: wrap; justify-content: center;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmaurya007&theme=tokyonight&hide_border=true&background=00000000&ring=00d4ff&fire=ff6b6b&currStreakLabel=7c3aed" height="180" />
-    <img src="https://github-profile-trophy.vercel.app/?username=sahilmaurya007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&column=4" height="180" />
-  </div>
-</div>
-
-<!-- 📫 Enhanced Connect Section with Gradient Background -->
-<div style="background: linear-gradient(135deg, rgba(15,10,42,0.95), rgba(10,26,47,0.98)); border-radius: 36px; padding: 2.5rem 2rem; margin: 40px 0; border: 2px solid #00d4ff60; box-shadow: 0 20px 60px rgba(0,212,255,0.2);">
-  <h2 align="center" style="color:#ffaa66; font-family: 'Orbitron', sans-serif; margin-bottom: 25px; font-size: 1.8em;">📫 Connect & Collaborate</h2>
-  
-  <div align="center" style="margin-bottom: 25px;">
-    <a href="mailto:d24204@students.iitmandi.ac.in" style="margin: 5px; display: inline-block;"><img src="https://img.shields.io/badge/📧_Email-Me-ff4d6d?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e" /></a>
-    <a href="https://linkedin.com/in/sahilmaurya007" style="margin: 5px; display: inline-block;"><img src="https://img.shields.io/badge/🔗_LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e" /></a>
-    <a href="https://sahilmaurya007.github.io/sahil-maurya-website/" style="margin: 5px; display: inline-block;"><img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-00f2ff?style=for-the-badge&logo=vercel&logoColor=1a1a2e&labelColor=1a1a2e" /></a>
-    <a href="https://github.com/sahilmaurya007" style="margin: 5px; display: inline-block;"><img src="https://img.shields.io/badge/💻_GitHub-Follow_Me-ffffff?style=for-the-badge&logo=github&logoColor=1a1a2e&labelColor=1a1a2e" /></a>
-  </div>
-  
-  <div align="center">
-    <code style="background: linear-gradient(135deg, rgba(0,212,255,0.15), rgba(124,58,237,0.1)); padding: 12px 28px; border-radius: 50px; color:#e0f0ff; font-family: 'Fira Code', monospace; font-size: 1.05em; border: 1px solid rgba(0,212,255,0.4); display: inline-flex; align-items: center; gap: 12px; box-shadow: 0 8px 25px rgba(0,212,255,0.15);">
-      <span style="font-size: 1.3em;">📍</span> 
-      <a href="https://www.iitmandi.ac.in/" style="color:#00d4ff; text-decoration:none; font-weight:600;">IIT Mandi, Himachal Pradesh</a>
-      <span style="color:#4a5568;">|</span>
-      <span style="font-size: 1.3em;">🔬</span>
-      <a href="https://a2dsl.vercel.app/" style="color:#7c3aed; text-decoration:none; font-weight:600;">A²-DSL Research Lab</a>
-    </code>
-  </div>
-  
-  <!-- 💬 Quick Contact CTA -->
-  <p align="center" style="color:#a0b3c6; margin-top: 25px; font-size: 1.05em; max-width: 650px; margin-left: auto; margin-right: auto;">
-    Open to collaborations on <b style="color:#00d4ff;">PQC hardware</b>, <b style="color:#7c3aed;">secure RISC-V architectures</b>, and <b style="color:#ff6b6b;">quantum-resistant AI accelerators</b>. Let's build the future of secure computing! 🚀
-  </p>
-</div>
-
-<!-- 🌊 Footer with Animation -->
-<div align="center" style="margin-top: 50px;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0f1a,00d4ff&height=120&section=footer&animation=twinkling" width="100%"/>
-  <p style="color:#7a8aa0; font-size: 14px; margin-top: 15px;">
-    <b style="color:#00d4ff;">© 2026 Sahil Maurya</b> | Crafting Quantum-Resistant Silicon @ IIT Mandi 🔐✨
-  </p>
-</div>
-
-<!-- ✨ Custom CSS Animations (GitHub supports via HTML comments) -->
-<style>
-@keyframes pulse {
-  0%, 100% { opacity: 0.6; transform: scale(1); }
-  50% { opacity: 0.9; transform: scale(1.02); }
-}
-@keyframes slideIn {
-  from { width: 0; }
-  to { width: var(--target-width, 95%); }
-}
-</style>
-
-</div>
+</div> </div> ```
