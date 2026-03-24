@@ -15,3 +15,26 @@
 ```math
 \boxed{\text{IIT Mandi} \quad \text{Research Scholar} \quad \text{CGPA: 8.33/10}}
 \boxed{\text{IIIT Guwahati} \quad \text{M.Tech VLSI} \quad \text{CGPA: 9.11/10 (Gold Medalist)}}
+
+mindmap
+  root((Research Focus))
+    Post-Quantum Cryptography
+      CRYSTALS-Kyber/Dilithium
+      NTT Hardware Acceleration
+      Side-Channel Resistance
+      Approximate Modular Multipliers
+    RISC-V SoC Architecture
+      Custom ISA Extensions
+      Secure Processor Design
+      Memory-Mapped Accelerators
+      Trusted Execution Environment
+    Digital VLSI Design
+      RTL-to-GDSII Flow
+      PPA Optimization
+      Low-Power Techniques
+      FPGA/ASIC Implementation
+    AI Hardware
+      Neuromorphic Computing
+      Adaptive Precision RISC-V
+      ML Accelerators
+      Energy-Efficient Architectures
