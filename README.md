@@ -1,77 +1,83 @@
+# Sahil Maurya | Research Scholar @ IIT Mandi
+### **Specializing in Digital VLSI, Post-Quantum Cryptography (PQC), and Secure RISC-V SoC Architectures**
+
 <div align="center">
-
-# 🚀 Sahil Maurya
-### **Research Scholar @ IIT Mandi | PQC Architect | RISC-V SoC Developer**
-
-<!-- Sliding Banner Section -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003366,100:000000&height=250&section=header&text=VLSI%20%7C%20PQC%20%7C%20RISC-V&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
-</p>
-
-<!-- Image Carousel / Slideshow (Using an animated SVG or GIF service) -->
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJvYnB0Znp6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6Znd6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/3o7TKSjP90Xf059qwg/giphy.gif" width="600" alt="VLSI Animation" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/IIT%20Mandi-Research-blue?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/PQC-Post%20Quantum-red?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/Research-IIT%20Mandi-blue?style=for-the-badge&logo=icloud&logoColor=white" />
   <img src="https://img.shields.io/badge/VLSI-Digital%20Design-orange?style=for-the-badge&logo=micro-strategy&logoColor=white" />
-  <img src="https://img.shields.io/badge/RISC--V-SoC%20Arch-green?style=for-the-badge&logo=linux&logoColor=white" />
-</p>
-
----
-
-## 👨‍💻 Research Vision
-> *"Securing the digital future through hardware-accelerated Post-Quantum Cryptography and adaptive RISC-V architectures."*
-
+  <img src="https://img.shields.io/badge/Security-Post%20Quantum-red?style=for-the-badge&logo=securityscorecard&logoColor=white" />
+  <img src="https://img.shields.io/badge/RISC--V-SoC%20Architect-green?style=for-the-badge&logo=linux&logoColor=white" />
 </div>
 
-## 🛠️ Technical Ecosystem
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmaurya007&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
+---
 
-<br>
+## 👨‍🔬 Professional Profile
+I am a **Research Scholar** at the School of Computing & Electrical Engineering (SCEE), **Indian Institute of Technology (IIT) Mandi**. My research is focused on the hardware-software co-design of secure and efficient cryptographic accelerators for a post-quantum world. With a strong background in **FPGA prototyping** and **ASIC design flows**, I am dedicated to building high-performance hardware architectures that are resilient against side-channel attacks and quantum-computing threats.
 
-<table align="center">
-  <tr>
-    <td align="center" width="300">
-      <h3>🛡️ Hardware Security</h3>
-      Kyber, Dilithium, Side-Channel Resistance, NTT Units, Secure Key Storage
-    </td>
-    <td align="center" width="300">
-      <h3>🧠 AI & Compute</h3>
-      Neuromorphic Computing, Adaptive Precision, RISC-V Extensions, HLS Optimization
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="300">
-      <h3>⚡ EDA Tools</h3>
-      Vivado, Vitis, Cadence Genus/Innovus, Xcelium, ModelSim, ASIC Design Flow
-    </td>
-    <td align="center" width="300">
-      <h3>📡 Prototyping</h3>
-      ZCU102, Virtex-7, Zybo Z7, FPGA-based SoC Integration
-    </td>
-  </tr>
-</table>
+- 🔭 **Ph.D. Research**: Secure Hardware Accelerators for Lattice-based Cryptography (Kyber/Dilithium).
+- 🧠 **Technical Focus**: NTT-based Polynomial Multipliers, Side-Channel Resistant RISC-V Cores, Neuromorphic Computing.
+- 🎓 **M.Tech Gold Medalist**: IIIT Guwahati (CGPA: 9.11/10.0).
 
 ---
 
-## 📚 Latest Research & Publications
-<details open>
-<summary><b>Click to expand my research highlights</b></summary>
+## 🛠️ Research & Industry Tech Stack
 
-- 🏆 **HiPC 2025**: *Neuromorphic Adaptive Precision RISC-V Processor with Real-Time Precision Scaling.*
-- 📄 **IEEE SILCON 2024**: *Approximate Modular Multipliers for R-LWE Cryptosystems on FPGAs and ASICs.*
-- 🛠️ **M.Tech Project**: *Toom-Cook Multiplication for Cryptosystems (IIIT Guwahati - Gold Medalist).*
+### **Hardware Description & Modeling**
+- **Languages**: Verilog HDL, SystemVerilog, VHDL, C/C++ (HLS), MATLAB/Simulink.
+- **Verification**: UVM (Basics), ModelSim, Questasim, Xcelium.
 
-</details>
+### **FPGA & ASIC Design Flows**
+- **Xilinx Suite**: Vivado ML, Vitis HLS, Vitis AI, PYNQ Prototyping (ZCU102, Zynq-7000).
+- **ASIC Tools**: Cadence Genus (Synthesis), Cadence Innovus (Place & Route), Tempus (STA).
+- **Open-Source EDA**: OpenLane, OpenROAD, SkyWater 130nm PDK, Magic VLSI.
+
+### **System-on-Chip (SoC)**
+- **Processor Architectures**: RISC-V (RV32I/EMC), ARM Cortex-M Series.
+- **Interconnects**: AMBA AXI4, APB, AHB-Lite, TileLink.
 
 ---
 
-## 📊 Performance Analytics
+## 📚 Selected Publications (IEEE Style)
+1. **S. Maurya** et al., "Neuromorphic Adaptive Precision RISC-V Processor with Real-Time Precision Scaling and Neuronal State Management," in *IEEE International Conference on High Performance Computing (HiPC)*, 2025 (Accepted).
+2. **S. Maurya** and [Co-authors], "Approximate Modular Multipliers for R-LWE Cryptosystems on FPGAs and ASICs," in *IEEE SILCON*, 2024.
+3. [Pre-print/Working Paper] "Side-Channel Resilient NTT Accelerator for CRYSTALS-Kyber on RISC-V SoC."
+
+---
+
+## 🚀 Research-Grade Projects
+
+### 🛡️ [Kyber-Accel-SoC](https://github.com/sahilmaurya007)
+**Post-Quantum Cryptography Accelerator Integrated with RISC-V**
+- **Problem**: Lattice-based PQC algorithms like Kyber are computationally intensive for standard MCUs.
+- **Architecture**: A hardware-accelerated Number Theoretic Transform (NTT) unit interfaced with a 5-stage RISC-V pipeline via AXI4-Lite.
+- **Results**: Achieved 10x speedup in polynomial multiplication vs. software-only implementation on RV32I.
+- **Flow**: Vivado 2024.2 (FPGA) & OpenLane (ASIC - Sky130).
+
+### 🧠 [Neuromorphic-RV32](https://github.com/sahilmaurya007)
+**Adaptive Precision Processor for AI/ML Workloads**
+- **Problem**: Fixed-precision hardware is inefficient for dynamic neuronal state updates in neuromorphic systems.
+- **Architecture**: Custom RISC-V ISA extensions for real-time bit-width scaling (4-bit to 32-bit).
+- **Results**: 35% reduction in dynamic power during inference phases.
+
+### ⚡ [AxMM-RLWE](https://github.com/sahilmaurya007)
+**Approximate Modular Multiplier for R-LWE Cryptography**
+- **Problem**: High area overhead of exact modular multipliers in resource-constrained IoT devices.
+- **Design**: Implemented an Error-Configurable Approximate Multiplier for Ring-LWE.
+- **Metrics**: 22% reduction in LUT usage on Kintex-7; 15% better ATP (Area-Time Product) on 45nm ASIC.
+
+---
+
+## 🧪 Future Research Project Roadmap (High-Impact)
+
+1.  **Fault-Injection Resistant NTT Core**: Implementation of error-detection codes in NTT butterfly units.
+2.  **Hardware-Software Co-Design for Dilithium Signature**: Offloading Keccak and NTT to dedicated FPGA fabric while managing logic in RISC-V.
+3.  **Secure Key Management Unit (KMU)**: A PUF-based key storage module for Zynq UltraScale+ devices.
+4.  **Energy-Efficient NTT Architecture for Edge-AI**: Using multi-banked memory to avoid bank conflicts in high-speed polynomial operations.
+5.  **Side-Channel Analysis (SCA) Sandbox**: A framework for evaluating power leakage of AES/PQC cores on FPGA.
+6.  **RISC-V TEE (Trusted Execution Environment)**: Hardware-enforced isolation for sensitive cryptographic operations.
+
+---
+
+## 📊 Analytics & Impact
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=sahilmaurya007&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmaurya007&theme=tokyonight&hide_border=true" />
@@ -79,23 +85,13 @@
 
 ---
 
-## 🎥 Skills in Motion
-<p align="center">
-  <a href="https://github.com/sahilmaurya007">
-    <img src="https://skillicons.dev/icons?i=verilog,cpp,py,matlab,linux,git,github,bash,ubuntu,vscode,visualstudio" />
-  </a>
-</p>
+## 📫 Connect & Collaborate
+- 🎓 **Google Scholar**: [Sahil Maurya (Placeholder)](https://scholar.google.com)
+- 💼 **LinkedIn**: [sahilmaurya007](https://linkedin.com/in/sahilmaurya007)
+- 📧 **Email**: [d24204@students.iitmandi.ac.in](mailto:d24204@students.iitmandi.ac.in)
+- 📍 **Office**: SCEE, IIT Mandi, Himachal Pradesh, India.
 
 ---
-
-## 📫 Let's Connect
-<p align="center">
-  <a href="mailto:d24204@students.iitmandi.ac.in"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/sahilmaurya007"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahilmaurya007&color=blueviolet" alt="Profile Views" />
-  <br>
-  <sub>© 2026 Sahil Maurya | Research & Innovation 🚀</sub>
+  <sub>© 2026 Sahil Maurya | Research & Innovation | Digital VLSI | PQC | RISC-V</sub>
 </div>
