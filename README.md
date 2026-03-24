@@ -1,150 +1,126 @@
-# 🚀 Sahil Maurya
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:0a0f2a,30:1a2a4a,70:0d2137,100:0a0f2a&height=280&section=header&text=Sahil%20Maurya&fontSize=58&fontColor=00d4ff&fontAlignY=42&desc=Research%20Scholar%20%7C%20IIT%20Mandi%20(SCEE)&descColor=8b949e&descAlignY=62&animation=twinkling" width="100%"/>
+</div>
 
 <div align="center">
   
-**Research Scholar @ IIT Mandi | Post-Quantum Cryptography Hardware | RISC-V SoC Design | Digital VLSI**
-
----
-
-[![Email](https://img.shields.io/badge/Email-d24204@students.iitmandi.ac.in-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:d24204@students.iitmandi.ac.in)
-[![GitHub](https://img.shields.io/badge/GitHub-sahilmaurya007-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sahilmaurya007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-sahilmaurya007-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilmaurya007)
-[![Location](https://img.shields.io/badge/Location-IIT_Mandi-0A4D6E?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.app.goo.gl/yourlink)
-
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&size=18&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=900&lines=🔐+Building+Quantum-Resistant+Hardware+Architectures;⚡+Designing+Secure+RISC-V+SoC+Pipelines;🖥️+RTL+to+GDSII+—+Every+Transistor+Counts;🔒+Synthesizing+Post-Quantum+Cryptographic+IPs;💎+Hardware+Security+for+the+Quantum+Era)](https://git.io/typing-svg)
 
 </div>
 
-
-╔═══════════════════════════════════════════════════════════════════════════════════╗
-║ ║
-║ ██████╗ ██████╗ ██████╗ ██╗ ██╗ █████╗ ██████╗ ██████╗ ██╗ ██╗ ║
-║ ██╔══██╗██╔══██╗██╔══██╗ ██║ ██║██╔══██╗██╔══██╗██╔══██╗██║ ██║ ║
-║ ██████╔╝██████╔╝██║ ██║ ███████║███████║██████╔╝██║ ██║██║ █╗ ██║ ║
-║ ██╔═══╝ ██╔══██╗██║ ██║ ██╔══██║██╔══██║██╔══██╗██║ ██║██║███╗██║ ║
-║ ██║ ██║ ██║██████╔╝ ██║ ██║██║ ██║██║ ██║██████╔╝╚███╔███╔╝ ║
-║ ╚═╝ ╚═╝ ╚═╝╚═════╝ ╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═╝╚═════╝ ╚══╝╚══╝ ║
-║ ║
-║ 🔐 HARDWARE SECURITY | POST-QUANTUM CRYPTOGRAPHY 🔐 ║
-║ ⚡ RISC-V SoC | DIGITAL VLSI DESIGN ⚡ ║
-╚═══════════════════════════════════════════════════════════════════════════════════╝
+<div align="center">
 
 
+  ██████╗ ██████╗ ██████╗ ██╗ ██╗ █████╗ ██████╗ ██████╗ ██╗ ██╗ █████╗ ██████╗ ██████╗ ██╗ ██╗
+██╔══██╗██╔══██╗██╔══██╗ ██║ ██║██╔══██╗██╔══██╗██╔══██╗██║ ██║██╔══██╗██╔══██╗██╔══██╗╚██╗ ██╔╝
+██████╔╝██████╔╝██║ ██║ ███████║███████║██████╔╝██║ ██║██║ █╗ ██║███████║██████╔╝██████╔╝ ╚████╔╝
+██╔═══╝ ██╔══██╗██║ ██║ ██╔══██║██╔══██║██╔══██╗██║ ██║██║███╗██║██╔══██║██╔══██╗██╔══██╗ ╚██╔╝
+██║ ██║ ██║██████╔╝ ██║ ██║██║ ██║██║ ██║██████╔╝╚███╔███╔╝██║ ██║██║ ██║██║ ██║ ██║
+╚═╝ ╚═╝ ╚═╝╚═════╝ ╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═╝╚═════╝ ╚══╝╚══╝ ╚═╝ ╚═╝╚═╝ ╚═╝╚═╝ ╚═╝ ╚═╝
 
+🔐 HARDWARE SECURITY | POST-QUANTUM CRYPTOGRAPHY | RISC-V SoC | DIGITAL VLSI 🔐
 
----
+</div>
 
-## 📌 About Me
+🧬 About Me — Architecting Secure Silicon
+text
+╔══════════════════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                                      ║
+║   🔬 Research Scholar @ IIT Mandi | SCEE Department                                                 ║
+║   🎯 Building Post-Quantum Cryptographic Hardware for NIST Standards (Kyber/Dilithium)              ║
+║   ⚙️ Designing Secure RISC-V SoCs with Custom ISA Extensions                                        ║
+║   🖥️ Mastering RTL-to-GDSII Flow | PPA Optimization | Side-Channel Resistant Architectures          ║
+║                                                                                                      ║
+║   🏆 Gold Medalist — M.Tech VLSI, IIIT Guwahati (CGPA: 9.11/10.0)                                   ║
+║   📚 Publications — IEEE HiPC 2025 | IEEE SILCON 2024                                                ║
+║                                                                                                      ║
+╚══════════════════════════════════════════════════════════════════════════════════════════════════════╝
+<div align="center">
+diff
++ 🔐 "The only way to protect against quantum threats is to build security into the hardware from the ground up."
++ ⚡ "Every transistor, every gate, every clock cycle — counts when securing the future of computing."
+</div>
+🔬 Research Focus Areas — Hardware Security & PQC
+<div align="center">
+🛡️ Post-Quantum Cryptography	⚙️ Digital VLSI Design	🖥️ RISC-V SoC Architecture
+CRYSTALS-Kyber Hardware Accel	RTL-to-GDSII Full Flow	Custom ISA Extensions
+CRYSTALS-Dilithium Signatures	Synthesis & STA	AXI/APB Interconnect Design
+NTT/Polynomial Multiplication	Physical Design & Floorplan	Secure Processor Architecture
+Side-Channel Resistance	Low-Power Techniques	Memory-Mapped Accelerators
+Masked Implementations	DFT & ATPG	Trusted Execution Environment
+Approximate Computing for PQC	Timing Closure	PQC Co-processor Integration
+</div>
+🏆 Publications & Research Impact
+📄 Conference Publications
+#	Title	Venue	Impact	Status
+1	Neuromorphic Adaptive Precision RISC-V Processor with Real-Time Precision Scaling and Neuronal State Management	IEEE HiPC 2025	Top-tier HPC	✅ Accepted
+2	Approximate Modular Multipliers for R-LWE Cryptosystems on FPGAs and ASICs	IEEE SILCON 2024	Flagship IEEE	✅ Published
+🔬 Research Contributions
+text
+┌─────────────────────────────────────────────────────────────────────────────────────┐
+│  📊 Key Metrics                                                                    │
+├─────────────────────────────────────────────────────────────────────────────────────┤
+│  • 34% Area Reduction — Approximate Modular Multiplier for R-LWE                   │
+│  • 33% Power Savings — With <1% Accuracy Loss (IEEE SILCON 2024)                   │
+│  • 40% Energy Reduction — Adaptive Precision RISC-V (IEEE HiPC 2025)               │
+│  • 1.28 Gbps Throughput — Kyber NTT Accelerator on Virtex-7 FPGA                   │
+│  • 245 MHz Operating Frequency — Pipelined Architecture                            │
+└─────────────────────────────────────────────────────────────────────────────────────┘
+🛠️ Technical Arsenal — VLSI & Hardware Security Stack
+<div align="center">
+🔧 Hardware Description Languages
+https://img.shields.io/badge/Verilog-Expert-00d4ff?style=for-the-badge&logo=verilog&logoColor=white
+https://img.shields.io/badge/SystemVerilog-Advanced-7c3aed?style=for-the-badge
+https://img.shields.io/badge/VHDL-Intermediate-8b5cf6?style=for-the-badge
+https://img.shields.io/badge/Chisel-Learning-ff6600?style=for-the-badge
 
-I am a **Research Scholar at IIT Mandi (SCEE Department)** specializing in:
+🛠️ EDA Tools & FPGA Platforms
+https://img.shields.io/badge/Xilinx_Vivado-Expert-e01f27?style=for-the-badge&logo=xilinx&logoColor=white
+https://img.shields.io/badge/Cadence_Genus/Innovus-Advanced-0099CC?style=for-the-badge
+https://img.shields.io/badge/OpenLane_OpenROAD-Advanced-00A86B?style=for-the-badge
+https://img.shields.io/badge/ModelSim-Advanced-FF6600?style=for-the-badge
+https://img.shields.io/badge/Synopsys_DC-Intermediate-ff4d4d?style=for-the-badge
 
-- 🔐 **Post-Quantum Cryptography (PQC) Hardware** - Accelerators for Kyber/Dilithium
-- ⚙️ **RISC-V SoC Architecture** - Custom ISA extensions, secure processor design
-- 🖥️ **Digital VLSI Design** - RTL-to-GDSII flow, PPA optimization, FPGA/ASIC implementation
+💻 Programming & Scripting
+https://img.shields.io/badge/Python-Expert-3776AB?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/C-Advanced-00599C?style=for-the-badge&logo=c&logoColor=white
+https://img.shields.io/badge/RISC--V_ASM-Advanced-FF4D4D?style=for-the-badge&logo=riscv&logoColor=white
+https://img.shields.io/badge/TCL-Advanced-003366?style=for-the-badge
 
-**🎓 Academic Excellence:**
-- 🏅 **Gold Medalist** - M.Tech VLSI, IIIT Guwahati (CGPA: 9.11/10.0)
-- 🎯 **IIT Mandi** - Research Scholar (CGPA: 8.33/10.0)
-- 📚 **Publications** - IEEE HiPC 2025, IEEE SILCON 2024
+🔐 Hardware Security Domains
+https://img.shields.io/badge/Post_Quantum_Crypto-Expert-6A0DAD?style=for-the-badge
+https://img.shields.io/badge/Side_Channel_Analysis-Advanced-00d4ff?style=for-the-badge
+https://img.shields.io/badge/RISC--V_Security-Advanced-ff6600?style=for-the-badge
+https://img.shields.io/badge/Formal_Verification-Intermediate-22c55e?style=for-the-badge
 
-**💡 Research Vision:** *"Building the hardware foundation for a post-quantum secure world - one transistor, one instruction, one algorithm at a time."*
+</div>
+💎 Featured Research Projects — PQC Hardware Accelerators
+🔐 Project 1: Approximate Modular Multiplier for R-LWE Cryptosystems
+Published at IEEE SILCON 2024 | Best Paper Nominee
 
----
-
-## 🎓 Education
-
-| Degree | Institution | Year | Performance |
-|:-------|:------------|:-----|:------------|
-| **Research Scholar (PhD)** | Indian Institute of Technology (IIT), Mandi | 2025 - Present | CGPA: 8.33/10.0 |
-| **M.Tech (VLSI & Embedded System)** | Indian Institute of Information Technology, Guwahati | 2023 | CGPA: 9.11/10.0 🏅 |
-| **B.Tech (Electronics & Communication)** | University of Lucknow, Uttar Pradesh | 2021 | Percentage: 66.1% |
-| **Higher Secondary (Intermediate)** | Board of High School and Intermediate Education, UP | 2016 | Percentage: 85% |
-
----
-
-## 📚 Relevant Coursework
-
-| Core VLSI | Advanced Topics | System Design |
-|:----------|:----------------|:--------------|
-| Low Power VLSI | Post Quantum Security | Architectural Design of Digital ICs |
-| VLSI Circuits and System | Reconfigurable Computing | System Modelling Lab |
-| VLSI CAD Lab | Neuromorphic Computing | Hardware Security |
-
----
-
-## 🏆 Publications
-
-### 📄 **Conference Papers**
-
-| # | Title | Venue | Status |
-|:---:|:------|:------|:------:|
-| 1 | **Neuromorphic Adaptive Precision RISC-V Processor with Real-Time Precision Scaling and Neuronal State Management** | IEEE HiPC 2025 | ✅ Accepted |
-| 2 | **Approximate Modular Multipliers for R-LWE Cryptosystems on FPGAs and ASICs** | IEEE SILCON 2024 | ✅ Published |
-
-### 🔬 **Key Research Contributions**
-
-| Contribution | Impact | Publication |
-|:-------------|:-------|:------------|
-| **Approximate Modular Multiplier for R-LWE** | 34% area reduction, 33% power savings with <1% accuracy loss | IEEE SILCON 2024 |
-| **Adaptive Precision RISC-V for Neuromorphic Computing** | 40% energy reduction vs fixed-precision designs | IEEE HiPC 2025 |
-| **Secure RISC-V with PQC Extensions** | First integration of Kyber accelerator as custom ISA | Under Review |
-
----
-
-## 🛠️ Technical Skills
-
-### Hardware Description Languages
-✓ Verilog (Expert)
-✓ SystemVerilog (Advanced)
-✓ VHDL (Intermediate)
-
-### EDA Tools & FPGA Platforms
-✓ Xilinx Vivado (Expert)
-✓ Cadence Genus/Innovus (Advanced)
-✓ OpenLane/OpenROAD (Advanced)
-✓ ModelSim/Questasim (Advanced)
-✓ Intel Quartus (Intermediate)
-
-### Programming & Scripting
-✓ Python (Expert)
-✓ C (Advanced)
-✓ RISC-V Assembly (Advanced)
-✓ MATLAB (Intermediate)
-✓ TCL (Advanced)
-
-### Research Domains
-✓ Post-Quantum Cryptography (Kyber, Dilithium)
-✓ RISC-V SoC Architecture
-✓ Side-Channel Analysis & Countermeasures
-✓ Approximate Computing
-✓ Neuromorphic Computing
-
----
-
-## 💻 Research Projects
-
-### 🔐 Project 1: Approximate Modular Multiplier for R-LWE Cryptosystems
-
-**Published in IEEE SILCON 2024**
-
-**Problem:** Conventional modular multipliers for R-LWE cryptosystems consume excessive area and power, limiting deployment in resource-constrained IoT devices.
-
-**Solution:** Novel approximate modular multiplier with adaptive error compensation achieving:
-
-| Metric | Proposed | State-of-the-Art | Improvement |
-|:-------|:---------|:-----------------|:------------|
-| Area | 2,500 GE | 3,800 GE | **34% reduction** |
-| Power | 0.8 mW @ 100MHz | 1.2 mW | **33% savings** |
-| Accuracy | 99.2% | 100% | <1% loss |
-| Technology | Nangate 45nm, Virtex-7 FPGA | - | - |
-
-**Key Innovation:** Adaptive approximation with error compensation for RLWE-based cryptography
-
-```verilog
-// Approximate Modular Multiplier for Kyber (q=3329)
-module approx_modular_multiplier #(
-    parameter Q = 3329,
-    parameter WIDTH = 17
+text
+┌─────────────────────────────────────────────────────────────────────────────────────┐
+│  🎯 Problem: Conventional modular multipliers consume excessive area and power     │
+│              limiting deployment in IoT edge devices                               │
+│                                                                                     │
+│  💡 Innovation: Adaptive approximation with error compensation for Kyber (q=3329)  │
+│                                                                                     │
+│  📊 Silicon Results (Nangate 45nm):                                                │
+│  ┌─────────────────────┬──────────────────┬──────────────────┬───────────────────┐ │
+│  │ Metric              │ Proposed Design  │ State-of-the-Art │ Improvement       │ │
+│  ├─────────────────────┼──────────────────┼──────────────────┼───────────────────┤ │
+│  │ Area                │ 2,500 GE         │ 3,800 GE         │ ████████░░ 34%   │ │
+│  │ Power @ 100MHz      │ 0.8 mW           │ 1.2 mW           │ ████████░░ 33%   │ │
+│  │ Accuracy            │ 99.2%            │ 100%             │ <1% loss         │ │
+│  │ ATP                 │ 2.04             │ 3.45             │ ████████░░ 41%   │ │
+│  └─────────────────────┴──────────────────┴──────────────────┴───────────────────┘ │
+└─────────────────────────────────────────────────────────────────────────────────────┘
+verilog
+// Approximate Modular Multiplier for CRYSTALS-Kyber
+// 34% area reduction | 33% power savings | <1% accuracy loss
+module kyber_approx_modular_multiplier #(
+    parameter Q = 3329,      // Kyber prime modulus
+    parameter WIDTH = 17     // Bit-width for coefficients
 )(
     input  logic clk, rst_n,
     input  logic [WIDTH-1:0] a, b,
@@ -152,191 +128,212 @@ module approx_modular_multiplier #(
     output logic result_valid
 );
     // Stage 1: Approximate multiplication with truncation
-    // Stage 2: Adaptive error compensation
-    // Stage 3: Modular reduction with Barrett algorithm
-    // Results: 34% area reduction, 33% power savings
+    // Stage 2: Adaptive error compensation logic
+    // Stage 3: Barrett reduction with error correction
+    // → 34% area savings with 99.2% accuracy
 endmodule
-
-
-
 🧠 Project 2: Neuromorphic Adaptive Precision RISC-V Processor
-Accepted at IEEE HiPC 2025
+*Accepted at IEEE HiPC 2025 | Top-tier HPC Conference*
 
-Problem: Fixed-precision processors waste energy on low-precision workloads; existing adaptive solutions lack real-time precision scaling.
+text
+┌─────────────────────────────────────────────────────────────────────────────────────┐
+│  🎯 Innovation: First RISC-V processor with real-time precision scaling            │
+│                  for neuromorphic computing applications                           │
+│                                                                                     │
+│  🏗️ Architecture Features:                                                         │
+│  • Dynamic precision scaling (8-bit to 32-bit)                                     │
+│  • Neuronal state management with spike processing                                 │
+│  • Hardware security features integrated                                           │
+│  • Adaptive voltage/frequency scaling                                              │
+│                                                                                     │
+│  📊 Performance Results:                                                           │
+│  ┌─────────────────────┬──────────────────┬──────────────────┬───────────────────┐ │
+│  │ Workload            │ Fixed-Precision  │ Adaptive         │ Energy Savings    │ │
+│  ├─────────────────────┼──────────────────┼──────────────────┼───────────────────┤ │
+│  │ Image Recognition   │ 32-bit           │ 8-16 bit dynamic │ ██████████░ 45%  │ │
+│  │ Audio Processing    │ 32-bit           │ 16-bit           │ ████████░░░ 32%  │ │
+│  │ Spiking Neural Nets │ 32-bit           │ 8-bit spike-based│ ███████████ 52%  │ │
+│  └─────────────────────┴──────────────────┴──────────────────┴───────────────────┘ │
+└─────────────────────────────────────────────────────────────────────────────────────┘
+🔒 Project 3: CRYSTALS-Kyber NTT Hardware Accelerator
+Current Research | Targeting IEEE TCAS-I
 
-Solution: First RISC-V processor with real-time precision scaling for neuromorphic computing
-
-Workload	Fixed-Precision	Adaptive Precision	Energy Savings
-Image Recognition	32-bit	8-16 bit dynamic	45%
-Audio Processing	32-bit	16-bit	32%
-Spiking Neural Networks	32-bit	8-bit spike-based	52%
-Features:
-
-Dynamic precision scaling (8-bit to 32-bit)
-
-Neuronal state management unit with spike processing
-
-Hardware security features integrated
-
-🔐 Project 3: CRYSTALS-Kyber Hardware Accelerator
-Current Research
-
-Objective: High-performance, side-channel resistant NTT architecture for Kyber KEM
-
-Architecture Features:
-
-4-parallel processing elements for high throughput
-
-Banked memory architecture with conflict-free access
-
-Optimized Barrett reduction with pipeline
-
-Masked implementation for side-channel resistance
-
-FPGA Results (Virtex-7):
-
-Parameter	Value
-Frequency	245 MHz
-Throughput	1.28 Gbps
-Area (LUTs)	2,845
-Area (DSPs)	8
-Key Generation Latency	12.4 μs
-Encapsulation Latency	14.1 μs
-Decapsulation Latency	15.2 μs
+text
+┌─────────────────────────────────────────────────────────────────────────────────────┐
+│  🎯 Objective: High-throughput, side-channel resistant NTT for Kyber KEM          │
+│                                                                                     │
+│  🏗️ Architecture: 4-parallel PEs | Banked Memory | Pipelined Barrett Reduction    │
+│                                                                                     │
+│  📊 FPGA Results (Xilinx Virtex-7):                                                │
+│  ┌─────────────────────┬──────────────────────────────────────────────────────────┐ │
+│  │ Frequency           │ 245 MHz                                                  │ │
+│  │ Throughput          │ 1.28 Gbps                                                │ │
+│  │ Area (LUTs)         │ 2,845                                                    │ │
+│  │ Area (DSPs)         │ 8                                                        │ │
+│  │ Key Generation      │ 12.4 μs                                                  │ │
+│  │ Encapsulation       │ 14.1 μs                                                  │ │
+│  │ Decapsulation       │ 15.2 μs                                                  │ │
+│  └─────────────────────┴──────────────────────────────────────────────────────────┘ │
+└─────────────────────────────────────────────────────────────────────────────────────┘
 verilog
-// NTT Processing Element for Kyber
-module ntt_pe #(
+// NTT Processing Element for CRYSTALS-Kyber
+// Pipelined butterfly with optimized twiddle factors
+module ntt_processing_element #(
     parameter N = 256,
     parameter Q = 3329
 )(
     input  logic clk,
     input  logic [16:0] a, b,
     input  logic [7:0]  twiddle,
-    output logic [16:0] result
+    output logic [16:0] a_out, b_out
 );
-    // Pipelined butterfly operation
-    // Optimized for Kyber parameters
+    // Pipelined butterfly: (a + b*ω) mod q, (a - b*ω) mod q
+    // Optimized for Kyber parameters with Barrett reduction
 endmodule
-🔢 Project 4: FPGA Implementation of Large Integer Multiplication Algorithms
-Comparative Analysis: Toom-Cook 2.5 vs Toom-Cook 3 multipliers for cryptosystems
-
-Results (Xilinx Artix-7):
-
-Parameter	Toom-Cook 2.5	Toom-Cook 3	Best Use
-LUTs	1,245	2,156	IoT, Edge Devices
-DSPs	4	8	Server, HPC
-Delay (ns)	8.2	6.1	Throughput-critical
-Frequency (MHz)	122	164	Speed-optimized
-Power (mW)	45	68	Power-sensitive
-🔒 Project 5: Secure RISC-V SoC with PQC Co-processor
-System Architecture Diagram:
-
+🔢 Project 4: Toom-Cook Multipliers for Cryptographic Applications
 text
-┌─────────────────────────────────────────────────────┐
-│              RISC-V Core (RV32IM)                    │
-│  ┌─────────────────────────────────────────────┐    │
-│  │ Register File │ ALU │ Control Unit         │    │
-│  └─────────────────────────────────────────────┘    │
-└───────────────────────────┬─────────────────────────┘
-                            │
-                    ┌───────▼────────┐
-                    │   AXI/AHB Bus  │
-                    └───────┬────────┘
-                            │
-        ┌───────────────────┼───────────────────┐
-        │                   │                   │
-┌───────▼──────┐    ┌───────▼──────┐    ┌───────▼──────┐
-│   APB Bridge │    │   DDR3/BRAM  │    │    UART      │
-└───────┬──────┘    └──────────────┘    └──────────────┘
-        │
-┌───────▼──────────────────────────────────────────┐
-│         Kyber Hardware Accelerator (APB Slave)   │
-│  ┌────────────────────────────────────────────┐  │
-│  │ Control Reg │ Status Reg │ Data FIFO      │  │
-│  ├────────────────────────────────────────────┤  │
-│  │ NTT Engine │ Modular Mult │ Sampler       │  │
-│  └────────────────────────────────────────────┘  │
-└──────────────────────────────────────────────────┘
-Security Features:
-
-Memory-mapped accelerator with privilege separation
-
-Side-channel resistant NTT implementation
-
-Secure key storage with PUF
-
-True random number generator integration
-
-📊 Research Metrics
-Metric	Value
-Conference Papers	2 (IEEE HiPC, IEEE SILCON)
-Under Review	2 (IEEE TCAS-I, IEEE TVLSI)
-Technical Reports	3
-GitHub Repositories	12+ Research Projects
-FPGA Implementations	8 Verified Designs
-ASIC Tape-outs	2 (in progress)
-Patent Filings	1 (Approximate Multiplier for PQC)
-🏅 Certifications
-Certification	Provider	Year
-System Design Using Verilog HDL	Udemy	2022
-VSD Static Timing Analysis Part 1	Udemy	2025
-VSD Static Timing Analysis Part 2	Udemy	2025
-Python for Data Science, AI & Development	Coursera	2023
-Cadence RTL to GDS Flow	Entuple Technology	2024
-VLSI Design Flow using Vivado	CoreEL/Xilinx	2024
-🎯 Achievements
-🏅 Highest CGPA in M.Tech ECE (9.11/10.0) - IIIT Guwahati 2021-23 Batch
-
-🎯 IIT Mandi Research Scholar - Top 15% of Department
-
-🔬 Two International Conference Publications during M.Tech
-
-🔐 Best Paper Nominee - IEEE SILCON 2024
-
-💡 Patent Filed - Approximate Computing for Post-Quantum Cryptography
-
-🔬 Current Research Directions
-Direction	Algorithm	Focus	Target Venue
-High-Throughput NTT Architecture	Kyber	8-parallel, pipelined design	IEEE TCAS-I
-Masked PQC for Side-Channel Resistance	Kyber/Dilithium	First-order masking, glitch-resistant	CHES 2026
-RISC-V PQC Instruction Extensions	Kyber	Custom ISA for Kyber operations	IEEE VLSID 2026
-Approximate Computing for Energy-Efficient PQC	Kyber	Error-resilient designs for IoT	IEEE SILCON 2024
-Formal Verification of PQC Hardware	Kyber	Mathematical correctness proofs	FMCAD 2026
-📈 GitHub Statistics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sahilmaurya007&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&count_private=true" width="49%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmaurya007&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF" width="49%" /> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmaurya007&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" width="70%" /> </div>
-📫 Contact Information
+┌─────────────────────────────────────────────────────────────────────────────────────┐
+│  📊 Comparative Analysis: Toom-Cook 2.5 vs Toom-Cook 3 (Xilinx Artix-7)           │
+│                                                                                     │
+│  ┌─────────────────────┬──────────────────┬──────────────────┬───────────────────┐ │
+│  │ Parameter           │ Toom-Cook 2.5    │ Toom-Cook 3      │ Best Use          │ │
+│  ├─────────────────────┼──────────────────┼──────────────────┼───────────────────┤ │
+│  │ LUTs                │ 1,245            │ 2,156            │ Resource-Constrained│ │
+│  │ DSPs                │ 4                │ 8                │ High-Performance  │ │
+│  │ Delay (ns)          │ 8.2              │ 6.1              │ Throughput-Critical│ │
+│  │ Frequency (MHz)     │ 122              │ 164              │ Speed-Optimized   │ │
+│  │ Power (mW)          │ 45               │ 68               │ Power-Sensitive   │ │
+│  └─────────────────────┴──────────────────┴──────────────────┴───────────────────┘ │
+│                                                                                     │
+│  💡 Conclusion: Toom-2.5 ideal for IoT/edge devices, Toom-3 for server/HPC        │
+└─────────────────────────────────────────────────────────────────────────────────────┘
+🏛️ Secure RISC-V SoC Architecture with PQC Co-processor
 text
-Sahil Maurya
-Research Scholar, SCEE Department
-Indian Institute of Technology Mandi
-Kamand Campus, Mandi, Himachal Pradesh - 175075
-
-📞 Phone: +91-7270020537
-📧 Email: d24204@students.iitmandi.ac.in
-
-🏠 Permanent Address:
-Janki Vihar Colony, Jankipuram
-Lucknow, Uttar Pradesh - 226021
-🔗 Connect With Me
+╔═══════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                   ║
+║   🖥️  RISC-V Core (RV32IM)                                                        ║
+║   ┌─────────────────────────────────────────────────────────────────────────┐    ║
+║   │  ┌──────────────┐  ┌──────────────┐  ┌──────────────────────────────┐ │    ║
+║   │  │ Register File│  │     ALU      │  │       Control Unit           │ │    ║
+║   │  │ (32 x 32-bit)│  │  ADD/SUB/MUL │  │  • Instruction Decode        │ │    ║
+║   │  └──────────────┘  └──────────────┘  │  • Hazard Detection          │ │    ║
+║   │                                      │  • PQC Instruction Decoder   │ │    ║
+║   │                                      └──────────────────────────────┘ │    ║
+║   └─────────────────────────────────────────────────────────────────────────┘    ║
+║                                          │                                       ║
+║                                          ▼                                       ║
+║                              ┌─────────────────────┐                            ║
+║                              │   AXI / AHB Bus     │                            ║
+║                              │      Interconnect   │                            ║
+║                              └──────────┬──────────┘                            ║
+║                                         │                                       ║
+║         ┌───────────────────────────────┼───────────────────────────────┐       ║
+║         │                               │                               │       ║
+║         ▼                               ▼                               ▼       ║
+║   ┌─────────────┐                ┌─────────────┐                ┌─────────────┐ ║
+║   │ APB Bridge  │                │ DDR3/BRAM   │                │   UART/GPIO │ ║
+║   │   & Decoder │                │ Controller  │                │  Interface  │ ║
+║   └──────┬──────┘                └─────────────┘                └─────────────┘ ║
+║          │                                                                       ║
+║          ▼                                                                       ║
+║   ┌─────────────────────────────────────────────────────────────────────────┐    ║
+║   │         Kyber Hardware Accelerator (APB Slave)                         │    ║
+║   │  ┌───────────────────────────────────────────────────────────────────┐ │    ║
+║   │  │ Control Reg │ Status Reg │ Data FIFO │ Key Storage (PUF-based)   │ │    ║
+║   │  ├───────────────────────────────────────────────────────────────────┤ │    ║
+║   │  │ NTT Engine │ Modular Mult │ Sampler │ TRNG │ Side-Channel Shield │ │    ║
+║   │  └───────────────────────────────────────────────────────────────────┘ │    ║
+║   └─────────────────────────────────────────────────────────────────────────┘    ║
+║                                                                                   ║
+║   🔐 Security Features:                                                          ║
+║   • Privilege Separation | Memory-Mapped Accelerator | Secure Key Storage       ║
+║   • Side-Channel Resistant NTT | Masked Implementation | True RNG               ║
+╚═══════════════════════════════════════════════════════════════════════════════════╝
+📊 Research Metrics & Impact
 <div align="center">
-https://img.shields.io/badge/Email-d24204@students.iitmandi.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white
-https://img.shields.io/badge/GitHub-sahilmaurya007-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/LinkedIn-sahilmaurya007-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
-https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white
+Metric	Value	Impact
+Conference Papers	2	IEEE HiPC, IEEE SILCON
+Under Review	2	IEEE TCAS-I, IEEE TVLSI
+Patent Filings	1	Approximate Computing for PQC
+FPGA Implementations	8	Virtex-7, Artix-7, Zybo Z7
+ASIC Tape-outs	2	Nangate 45nm (in progress)
+GitHub Repositories	12+	Research Projects
+Area Reduction	34%	Approximate Modular Multiplier
+Power Savings	33%	R-LWE Cryptosystems
+Energy Reduction	40-52%	Adaptive Precision RISC-V
+</div>
+🏅 Certifications & Professional Development
+<div align="center">
+Certification	Provider	Focus Area	Year
+System Design Using Verilog HDL	Udemy	RTL Design	2022
+VSD Static Timing Analysis (Parts 1 & 2)	Udemy	Timing Closure	2025
+Python for Data Science, AI & Development	Coursera	ML for Hardware	2023
+Cadence RTL to GDS Flow	Entuple Technology	ASIC Flow	2024
+VLSI Design Flow using Vivado	CoreEL/Xilinx	FPGA Design	2024
+</div>
+🎯 Achievements & Recognition
+text
+┌─────────────────────────────────────────────────────────────────────────────────────┐
+│  🏅 Academic Excellence                                                            │
+│  ├── Highest CGPA in M.Tech ECE (9.11/10.0) — IIIT Guwahati 2021-23 Batch         │
+│  ├── IIT Mandi Research Scholar — Top 15% of Department                           │
+│  └── Two International Conference Publications during M.Tech                      │
+│                                                                                     │
+│  🔬 Research Recognition                                                           │
+│  ├── Best Paper Nominee — IEEE SILCON 2024 (Approximate Modular Multipliers)      │
+│  ├── Patent Filed — Approximate Computing for Post-Quantum Cryptography           │
+│  └── Reviewer — IEEE Transactions on Circuits and Systems (TCAS)                  │
+│                                                                                     │
+│  🎓 Competitive Achievements                                                        │
+│  ├── GATE Qualified — Electronics & Communication Engineering                     │
+│  └── Certificate of Excellence — VLSI Design Workshop, CoreEL Technologies        │
+└─────────────────────────────────────────────────────────────────────────────────────┘
+🔬 Current Research Directions
+<div align="center">
+Direction	Algorithm	Focus	Target	Status
+High-Throughput NTT	Kyber	8-parallel pipelined	IEEE TCAS-I	🔄 Active
+Masked PQC	Kyber/Dilithium	First-order glitch-resistant	CHES 2026	🔄 Active
+RISC-V PQC Extensions	Kyber	Custom ISA for KEM	IEEE VLSID 2026	📝 Planning
+Formal Verification	Kyber	Mathematical correctness	FMCAD 2026	📝 Planning
+PUF-based Key Storage	Kyber	Hardware root of trust	HOST 2026	🔄 Active
+</div>
+📈 GitHub Activity & Statistics
+<div align="center"> <img height="180" src="https://github-readme-stats.vercel.app/api?username=sahilmaurya007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0a0f2a&title_color=00d4ff&icon_color=7c3aed&text_color=8b949e&count_private=true" /> <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmaurya007&layout=compact&theme=github_dark&hide_border=true&bg_color=0a0f2a&title_color=00d4ff&text_color=8b949e&langs_count=8" /> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilmaurya007&theme=dark&hide_border=true&background=0a0f2a&ring=00d4ff&fire=7c3aed&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e" width="70%" /> </div><div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=sahilmaurya007&theme=github-compact&bg_color=0a0f2a&color=00d4ff&line=7c3aed&point=00d4ff&area=true&hide_border=true" width="100%" /> </div>
+📫 Connect & Collaborate
+<div align="center">
+https://img.shields.io/badge/%F0%9F%93%A7_Email-d24204@students.iitmandi.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/%F0%9F%90%99_GitHub-sahilmaurya007-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/%F0%9F%94%97_LinkedIn-sahilmaurya007-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/%F0%9F%93%9A_Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white
 
 </div>
 text
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   🔐  Building Quantum-Resistant Silicon for a Secure Future  🔐   ║
-║                                                                  ║
-║   "The only way to protect against quantum threats is to        ║
-║    build security into the hardware from the ground up."         ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+┌─────────────────────────────────────────────────────────────────────────────────────┐
+│  📍 Permanent Address                                                              │
+│  Janki Vihar Colony, Jankipuram, Lucknow, Uttar Pradesh - 226021                   │
+│  📞 Phone: +91-7270020537                                                          │
+│                                                                                     │
+│  🏛️ Current Address                                                                │
+│  IIT Mandi, Kamand Campus, Mandi, Himachal Pradesh - 175075                        │
+│  🔬 A-DSL Lab, SCEE Department                                                     │
+└─────────────────────────────────────────────────────────────────────────────────────┘
 <div align="center">
+text
+╔═══════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                   ║
+║   🔐  Building Quantum-Resistant Silicon for a Post-Quantum World  🔐            ║
+║                                                                                   ║
+║   "The only way to protect against quantum threats is to build security          ║
+║    into the hardware from the ground up — every transistor, every gate,          ║
+║    every clock cycle counts when securing the future of computing."              ║
+║                                                                                   ║
+║                              — Sahil Maurya                                       ║
+║                                                                                   ║
+╚═══════════════════════════════════════════════════════════════════════════════════╝
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f2a,30:1a2a4a,70:0d2137,100:0a0f2a&height=100&section=footer" width="100%"/>
 © 2025 Sahil Maurya | IIT Mandi Research Scholar | Hardware Security & Post-Quantum Cryptography
 
 Last Updated: March 2026
 
 </div> ```
+
