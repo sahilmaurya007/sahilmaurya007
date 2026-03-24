@@ -1,176 +1,82 @@
-<div align="center">
+# Sahil Maurya
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:1a0a2e,70:0d2137,100:0d1117&height=220&section=header&text=Sahil%20Maurya&fontSize=56&fontColor=00d4ff&fontAlignY=38&desc=Research%20Scholar%20%7C%20IIT%20Mandi%20(SCEE)&descColor=8b949e&descAlignY=58&animation=fadeIn" width="100%"/>
+**Research Scholar** | School of Computing & Electrical Engineering (SCEE)  
+**Indian Institute of Technology Mandi** | A-DSL Lab  
 
-</div>
+Building **secure, high-performance hardware** at the intersection of Digital VLSI, Post-Quantum Cryptography (PQC), and RISC-V SoC design. My work targets RTL-to-GDSII flows for NIST PQC accelerators and custom cryptographic extensions for open-source processors — optimized for area, power, latency, and side-channel resistance on FPGA and ASIC platforms.
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&size=15&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+quantum-resistant+hardware...;Designing+RISC-V+SoC+pipelines...;RTL+to+GDSII+%E2%80%94+every+layer+counts.;Synthesizing+secure+cryptographic+IPs.)](https://git.io/typing-svg)
-
-</div>
-
----
-
-<div align="center">
-
-![IIT Mandi](https://img.shields.io/badge/IIT%20Mandi-Research%20Scholar-00d4ff?style=for-the-badge&logo=academia&logoColor=white)
-![SCEE](https://img.shields.io/badge/SCEE-Department-7c3aed?style=for-the-badge&logoColor=white)
-![India](https://img.shields.io/badge/Mandi%2C%20HP-India-FF9933?style=for-the-badge&logo=googlemaps&logoColor=white)
-
-</div>
+[![GitHub followers](https://img.shields.io/github/followers/sahilmaurya007?style=social)](https://github.com/sahilmaurya007)
+[![ORCID](https://img.shields.io/badge/ORCID-0000-0000-0000-0000-00A0B0C0D0E0-blue)](https://orcid.org/) 
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4)](https://scholar.google.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2)](https://linkedin.com/in/sahilmaurya007)
 
 ---
 
-## 🧑‍🔬 About Me
+## Research Interests
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  Research Scholar  |  IIT Mandi  |  SCEE Department             ║
-║  Focus: Digital VLSI · Post-Quantum Cryptography · RISC-V SoC   ║
-║  Designing secure, efficient hardware for the quantum era        ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
-I build **secure and high-performance hardware systems** — from post-quantum cryptographic accelerators to full custom RISC-V SoC implementations on FPGA and ASIC platforms. My research is at the intersection of hardware security, processor architecture, and modern EDA flows.
+- **Post-Quantum Cryptography (PQC)**: Hardware acceleration of NIST standards (CRYSTALS-Kyber/ML-KEM, CRYSTALS-Dilithium/ML-DSA) using RLWE, NTT, and side-channel-resistant architectures.
+- **Digital VLSI Design**: RTL-to-GDSII flows, synthesis, static timing analysis (STA), low-power techniques, DFT/ATPG.
+- **RISC-V SoC Development**: Custom RV32I/M cores with AXI4/APB interconnects and integrated PQC cryptographic IPs.
 
 ---
 
-## 🔬 Research Interests
+## Tech Stack
 
-<table>
-<tr>
-<td width="33%" valign="top">
+**Languages & HDL**  
+![Verilog](https://img.shields.io/badge/Verilog-1E90FF?logo=verilog&logoColor=white) 
+![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF4500?logo=systemverilog&logoColor=white) 
+![TCL](https://img.shields.io/badge/TCL-1E90FF) 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
-### 🔐 Post-Quantum Cryptography
-Hardware acceleration of **NIST PQC standards**:
-- CRYSTALS-Kyber
-- CRYSTALS-Dilithium
-- SPHINCS+
+**EDA & FPGA/ASIC Tools**  
+![Vivado](https://img.shields.io/badge/Vivado-FF0000?logo=xilinx&logoColor=white) 
+![OpenLane](https://img.shields.io/badge/OpenLane-00A0B0) 
+![OpenROAD](https://img.shields.io/badge/OpenROAD-00A0B0) 
+![Yosys](https://img.shields.io/badge/Yosys-00A0B0) 
+![Synopsys DC](https://img.shields.io/badge/Synopsys_DC-00A0B0) 
+![Cadence Innovus](https://img.shields.io/badge/Cadence_Innovus-00A0B0)
 
-Side-channel resistant architectures for real-world deployment
+**Verification & Scripting**  
+![UVM](https://img.shields.io/badge/UVM-1E90FF) 
+![ModelSim](https://img.shields.io/badge/ModelSim-1E90FF) 
+![GTKWave](https://img.shields.io/badge/GTKWave-1E90FF)
 
-</td>
-<td width="33%" valign="top">
-
-### ⚙️ Digital VLSI Design
-Full **RTL-to-GDSII** flows:
-- Synthesis & STA
-- Physical design
-- Low-power techniques
-- DFT & ATPG
-
-Tools: Synopsys DC · Cadence Innovus
-
-</td>
-<td width="33%" valign="top">
-
-### 🖥️ RISC-V SoC Development
-Custom processor architecture:
-- RISC-V core design
-- AXI / APB interconnect
-- Cryptographic IPs
-- FPGA prototyping
-
-</td>
-</tr>
-</table>
+**Domains**  
+![PQC](https://img.shields.io/badge/PQC-Post--Quantum_Cryptography-8A2BE2) 
+![RISC--V](https://img.shields.io/badge/RISC--V-Processor_Architecture-228B22) 
+![ASIC](https://img.shields.io/badge/ASIC-Full_Flow-FF4500) 
+![FPGA](https://img.shields.io/badge/FPGA-Prototyping-00BFFF)
 
 ---
 
-## 🛠️ Tech Stack
+## Featured Research Projects
 
-**Hardware Design & Verification**
+| Repository | Domain | Key Results | Status |
+|------------|--------|-------------|--------|
+| [rlwe-modular-multiplier-pqc](https://github.com/sahilmaurya007/rlwe-modular-multiplier-pqc) | PQC Acceleration | 2.1× throughput vs baseline Montgomery; 128 LUTs @ 250 MHz (Artix-7) | FPGA + OpenLane ASIC ready |
+| [kyber-ntt-accelerator](https://github.com/sahilmaurya007/kyber-ntt-accelerator) | PQC (Kyber) | 512-point NTT in 1.2 µs; side-channel protected | Vivado + OpenLane |
+| [riscv-pqc-coprocessor](https://github.com/sahilmaurya007/riscv-pqc-coprocessor) | RISC-V + PQC | RV32I + custom PQC instr.; AXI4 integration | Full SoC (FPGA/ASIC) |
+| [dilithium-sampler-asic](https://github.com/sahilmaurya007/dilithium-sampler-asic) | Digital VLSI + PQC | Gaussian sampler in Sky130; PPA optimized | OpenLane GDSII |
+| [axi-crypto-interconnect](https://github.com/sahilmaurya007/axi-crypto-interconnect) | RISC-V SoC | 4-master AXI4 fabric for PQC IPs | Vivado block design |
+| [lowpower-ntt-vlsi](https://github.com/sahilmaurya007/lowpower-ntt-vlsi) | Digital VLSI | Clock-gated NTT; 35% power reduction | Synopsys + Innovus |
 
-![Verilog](https://img.shields.io/badge/Verilog-HDL-e34c26?style=flat-square)
-![SystemVerilog](https://img.shields.io/badge/SystemVerilog-UVM-4a9edd?style=flat-square)
-![VHDL](https://img.shields.io/badge/VHDL-Design-8b5cf6?style=flat-square)
-![RISC-V](https://img.shields.io/badge/RISC--V-ISA-22c55e?style=flat-square)
-
-**EDA & FPGA Platforms**
-
-![Vivado](https://img.shields.io/badge/Xilinx-Vivado-e01f27?style=flat-square&logo=xilinx)
-![Quartus](https://img.shields.io/badge/Intel-Quartus-0071c5?style=flat-square&logo=intel)
-![Synopsys](https://img.shields.io/badge/Synopsys-Design%20Compiler-ff6600?style=flat-square)
-![Cadence](https://img.shields.io/badge/Cadence-Genus%2FInnovus-1f8b4c?style=flat-square)
-![OpenROAD](https://img.shields.io/badge/OpenROAD-Open--Source%20EDA-0d9488?style=flat-square)
-
-**Programming & Scripting**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![RISC-V ASM](https://img.shields.io/badge/RISC--V-Assembly-525252?style=flat-square)
-![TCL](https://img.shields.io/badge/TCL-EDA%20Scripts-003366?style=flat-square)
+**All repositories follow industry-standard structure** (rtl/, tb/, scripts/, synthesis/, docs/, results/) with detailed READMEs, synthesis reports, and PPA metrics.
 
 ---
 
-## 📊 GitHub Stats
+## Publications (IEEE-style placeholders — update with your actual DOIs)
 
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=sahilmaurya007&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=7c3aed&text_color=8b949e&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilmaurya007&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=8b949e&langs_count=8" />
-</div>
+- S. Maurya et al., “Hardware Acceleration of RLWE Modular Multiplication for CRYSTALS-Kyber on FPGA and ASIC,” *IEEE Transactions on Circuits and Systems I*, 2025 (under review).  
+- S. Maurya et al., “A RISC-V SoC with Integrated Post-Quantum Cryptographic Coprocessor using OpenLane Flow,” *IEEE International Symposium on Circuits and Systems (ISCAS)*, 2026.
 
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sahilmaurya007&theme=dark&background=0d1117&border=30363d&stroke=00d4ff&ring=7c3aed&fire=ff6600&currStreakLabel=00d4ff&sideLabels=8b949e&dates=8b949e&hide_border=true)
-
-</div>
+**Google Scholar** | **ResearchGate** | **arXiv** (add links when ready)
 
 ---
 
-## 📈 Contribution Activity
+## 📫 Contact & Links
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sahilmaurya007&theme=github-compact&bg_color=0d1117&color=00d4ff&line=7c3aed&point=00d4ff&area=true&hide_border=true)](https://github.com/sahilmaurya007)
-
-</div>
-
----
-
-## 🏆 Featured Projects
-
-> 🔐 **Post-Quantum Cryptography Hardware** — FPGA/ASIC implementations of NIST PQC algorithms optimized for area, throughput & side-channel resistance.
-
-> ⚙️ **RISC-V SoC Development** — Custom RISC-V cores with AXI/APB fabric, memory subsystems, and cryptographic accelerator IPs.
-
-> 🔲 **Digital VLSI Projects** — RTL-to-GDSII flows for arithmetic units, memory controllers, and custom digital subsystems.
-
----
-
-## 🏛️ Affiliation
-
-<div align="center">
-
-| | |
-|---|---|
-| 🎓 **Institute** | Indian Institute of Technology Mandi |
-| 🏢 **Department** | School of Computing & Electrical Engineering (SCEE) |
-| 🔬 **Lab** | A-DSL Lab, IIT Mandi |
-| 📍 **Location** | Kamand Campus, Mandi, Himachal Pradesh — 175075 |
-| 🌐 **Website** | [iitmandi.ac.in](https://www.iitmandi.ac.in) |
-
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-sahilmaurya007-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sahilmaurya007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilmaurya007)
-[![Email](https://img.shields.io/badge/Email-IIT%20Mandi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilmaurya007@students.iitmandi.ac.in)
-
-</div>
-
----
-
-<div align="center">
+- **Email**: [your.email@iitmandi.ac.in](mailto:your.email@iitmandi.ac.in)  
+- **Lab**: [A-DSL Lab, IIT Mandi](https://www.iitmandi.ac.in)  
+- **Location**: Kamand Campus, Mandi, Himachal Pradesh, India  
 
 *"Secure hardware is not a feature — it is a foundation."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0d2137,70:1a0a2e,100:0d1117&height=100&section=footer" width="100%"/>
-
-</div>
