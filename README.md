@@ -8,7 +8,9 @@
 <a href="https://sahilmaurya007.github.io/sahil-maurya-website/"><img src="https://img.shields.io/badge/🏠_Home-Portfolio-0d1117?style=flat-square&labelColor=00d4ff" alt="Home"/></a>
 <a href="https://sahilmaurya007.github.io/sahil-maurya-website/#publications"><img src="https://img.shields.io/badge/📜_Research-Publications-0d1117?style=flat-square&labelColor=00d4ff" alt="Research"/></a>
 <a href="https://sahilmaurya007.github.io/sahil-maurya-website/#chip"><img src="https://img.shields.io/badge/💾_Chips-Gallery-0d1117?style=flat-square&labelColor=00d4ff" alt="Chips"/></a>
-<a href="https://sahilmaurya007.github.io/sahil-maurya-website/#blogs"><img src="https://img.shills.io/badge/✍️_Blogs-Siyahi--e--Sahil-0d1117?style=flat-square&labelColor=00d4ff" alt="Blogs"/></a>
+<a href="https://sahilmaurya007.github.io/sahil-maurya-website/#blogs"><img src="https://img.shields.io/badge/✍️_Blogs-Siyahi--e--Sahil-0d1117?style=flat-square&labelColor=00d4ff" alt="Blogs"/></a>
+
+<br/>
 
 <a href="https://sahilmaurya007.github.io/sahil-maurya-website/"><img src="https://img.shields.io/badge/🌐_VISIT_LIVE_WEBSITE-sahilmaurya007.github.io-00d4ff?style=for-the-badge" alt="Portfolio"/></a>
 &nbsp;
@@ -63,21 +65,21 @@
 
 ## 📜 Research Publications
 
-> **Four Tier-1 Conference Papers** — click on paper titles for details
+> **Four Tier-1 Conference Papers** — expand for full details
 
 <div align="center">
 
 | # | Year | Paper | Venue |
 |:-:|:----:|:-------|:------|
-| 1 | 2027 | **[Reproducible Co-Design of Domain-Aware Sleep Switches & Staggered Wake-Up Schedules](https://github.com/sahilmaurya007/sahil-maurya-website/tree/main#-research-publications)** 🎤 *Oral* | **VLSID 2027** |
-| 2 | 2026 | **[Towards Efficient PQC: Optimized K2RED, Plantard & Approximate Modular Multipliers](https://ieeexplore.ieee.org/document/11459250)** | **IEEE ISVLSI 2026** |
-| 3 | 2025 | **[Neuromorphic Adaptive Precision RISC-V Processor with Real-Time Precision Scaling](https://ieeexplore.ieee.org/document/11459250)** — *40–52% ⚡ energy ↓* | **IEEE HiPC 2025W** |
-| 4 | 2024 | **[Approximate Modular Multipliers for R-LWE on FPGAs & ASICs](https://ieeexplore.ieee.org/document/10910421)** — *34% area ↓, 33% power ↓* | **IEEE SILCON 2024** |
+| 1 | 2027 | **Reproducible Co-Design of Domain-Aware Sleep Switches & Staggered Wake-Up Schedules** 🎤 *Oral* | **VLSID 2027** |
+| 2 | 2026 | **Towards Efficient PQC: Optimized K2RED, Plantard & Approximate Modular Multipliers** | **IEEE ISVLSI 2026** |
+| 3 | 2025 | **Neuromorphic Adaptive Precision RISC-V Processor with Real-Time Precision Scaling** — *40–52% ⚡ energy ↓* | **IEEE HiPC 2025W** |
+| 4 | 2024 | **Approximate Modular Multipliers for R-LWE on FPGAs & ASICs** — *34% area ↓, 33% power ↓* | **IEEE SILCON 2024** |
 
 </div>
 
 <details>
-<summary><b>🎤 Publication Details (click to expand)</b></summary>
+<summary><b>🎤 Full Publication Details (click to expand)</b></summary>
 
 <br/>
 
@@ -88,20 +90,20 @@
 
 **2. Towards Efficient Post-Quantum Cryptography: Implementations of Optimized K2RED, Plantard, and Approximate Modular Multipliers**
   - **Venue**: IEEE ISVLSI 2026 — Tier-1 Conference
-  - Authors: Sahil Maurya, Bikram Paul
+  - **Authors**: Sahil Maurya, Bikram Paul
   - **Status**: Published · Certificate of Recognition 🏅
 
 **3. Neuromorphic Adaptive Precision RISC-V Processor with Real-Time Precision Scaling and Neuronal State Management**
   - **Venue**: IEEE HiPC 2025 Workshop (HiPCW) — Tier-1 Conference, Hyderabad
-  - Authors: Om Maheshwari, **Sahil Maurya**, Bikram Paul
+  - **Authors**: Om Maheshwari, **Sahil Maurya**, Bikram Paul
   - **Highlight**: *First RISC-V processor with real-time precision scaling — 40–52% energy reduction*
-  - **Link**: [IEEE Xplore](https://ieeexplore.ieee.org/document/11459250)
+  - **Link**: [IEEE Xplore →](https://ieeexplore.ieee.org/document/11459250)
 
 **4. Approximate Modular Multipliers for R-LWE Cryptosystems on FPGAs and ASICs**
   - **Venue**: IEEE Silchar Subsection Conference (SILCON 2024)
-  - Authors: **Sahil Maurya**, Babita Jajodia
+  - **Authors**: **Sahil Maurya**, Babita Jajodia
   - **Highlight**: *34% area reduction, 33% power savings with <1% accuracy loss*
-  - **Link**: [IEEE Xplore](https://ieeexplore.ieee.org/document/10910421)
+  - **Link**: [IEEE Xplore →](https://ieeexplore.ieee.org/document/10910421)
 
 </details>
 
@@ -111,7 +113,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏅_ISVLSI_2026-Certificate_of_Recognition-FFD700?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🏅_ISVLSI_2026-Recognition-FFD700?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/🎖️_VLSID_Fellow-2024_·_2025_·_2026-00d4ff?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/🎤_IEEE_HiPC_2025-Presenter-00ff9d?style=for-the-badge&labelColor=0d1117" />
 <img src="https://img.shields.io/badge/🥇_M.Tech_Batch_Topper-CGPA_9.11-ff00c8?style=for-the-badge&labelColor=0d1117" />
@@ -140,21 +142,21 @@
 <div align="center">
 
 ### 📐 Languages & HDL
-<img src="https://img.shields.io/badge/Verilog-1364-00d4ff?style=flat-square&logo=verilog" />
+<img src="https://img.shields.io/badge/Verilog-HDL-00d4ff?style=flat-square" />
 <img src="https://img.shields.io/badge/SystemVerilog-1800-00d4ff?style=flat-square" />
 <img src="https://img.shields.io/badge/VHDL-93-00d4ff?style=flat-square" />
 <img src="https://img.shields.io/badge/Python-3-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/C-11-A8B9CC?style=flat-square&logo=c&logoColor=white" />
-<img src="img.shields.io/badge/RISC--V-Assembly-00ff9d?style=flat-square" />
+<img src="https://img.shields.io/badge/RISC--V-Assembly-00ff9d?style=flat-square" />
 <img src="https://img.shields.io/badge/TCL-Scripting-ffd700?style=flat-square" />
 
 ### 🔧 EDA Tools
-<img src="https://img.shields.io/badge/Xilinx_Vivado-Platform-f09?style=flat-square&logo=xilinx&logoColor=white" />
-<img src="https://img.shields.io/badge/Cadence-Genus/Innovus-00d4ff?style=flat-square" />
+<img src="https://img.shields.io/badge/Xilinx_Vivado-FPGA-ff0090?style=flat-square" />
+<img src="https://img.shields.io/badge/Cadence-Genus%2FInnovus-00d4ff?style=flat-square" />
 <img src="https://img.shields.io/badge/Synopsys-Tools-00d4ff?style=flat-square" />
 <img src="https://img.shields.io/badge/Siemens_EDA-Mentor-00ff9d?style=flat-square" />
 <img src="https://img.shields.io/badge/OpenLane-Open_Source-8b5cf6?style=flat-square" />
-<img src="https://img.shills.io/badge/OpenROAD-Open_Source-8b5cf6?style=flat-square" />
+<img src="https://img.shields.io/badge/OpenROAD-Open_Source-8b5cf6?style=flat-square" />
 <img src="https://img.shields.io/badge/Yosys-Synthesis-00ff9d?style=flat-square" />
 <img src="https://img.shields.io/badge/ModelSim-Simulation-ffd700?style=flat-square" />
 <img src="https://img.shields.io/badge/Intel_Quartus-FPGA-00d4ff?style=flat-square" />
@@ -188,7 +190,7 @@
 
 | Blog | Theme | Features |
 |:-----|:------|:---------|
-| **[Play with FPGA: A Love Letter to Reconfigurable Silicon ❤️](https://sahilmaurya007.github.io/sahil-maurya-website/#blogs)** | Engineering · Failure · Love | 🎧 🎙 🅷 |
+| **Play with FPGA: A Love Letter to Reconfigurable Silicon ❤️** | Engineering · Failure · Love | 🎧 🎙 🅷 |
 | **Teaching Assistant — VL-401: RTL Design & Verification** | Teaching · IIT Mandi | 🎧 🎙 🅷 |
 
 </div>
@@ -197,7 +199,7 @@
 <summary><b>🎧 Blog Platform Features (click to expand)</b></summary>
 
 - 🎧 **Audio narration** — poori story sun sakte ho (Voice 1/2/3 sweet modes)
-- 🎙 **Podcast mode** — 2-voice (Host ♀ + Storyteller ♂) Hindi/English dono me
+- 🎙 **Podcast mode** — 2-voice (Host ♀ + Storyteller ♂), Hindi/English dono
 - 🅷 **Hindi translation** — koi bhi blog Hindi me padho/suno
 - 📖 **Book mode** — page-by-page flipping jaise real book
 - 🌓 **12+ themes** — night/light modes
@@ -232,23 +234,13 @@
 
 ---
 
-## 🐍 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/sahilmaurya007/sahilmaurya-website/raw/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/sahilmaurya007/sahil-maurya-website/raw/output/github-snake.svg" />
-  <img alt="snake animation" src="https://github.com/sahilmaurya007/sahil-maurya-website/raw/output/github-snake.svg" />
-</picture>
-
----
-
 ## 📫 Connect
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilmaurya007)
 [![Email](https://img.shields.io/badge/Email-IIT_Mandi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d24204@students.iitmandi.ac.in)
-[![Google Scholar](https:// expandable)](https://scholar.google.com/citations?user=sahilmaurya007)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge)](https://scholar.google.com/citations?user=sahilmaurya007)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-00d4ff?style=for-the-badge)](https://sahilmaurya007.github.io/sahil-maurya-website/)
 
 </div>
