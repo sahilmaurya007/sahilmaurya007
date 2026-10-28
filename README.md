@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Quantum-Resistant+Hardware+Accelerators...;RISC-V+SoC+Design+·+RTL+%E2%86%92+GDSII...;Post-Quantum+Crypto+·+Kyber+%2F+Dilithium...;Siyahi-e-Sahil+—+Kuch+logic+se%2C+kuch+lafzon+se...)](https://git.io/typing-svg)
 
-<!-- NAV BAR - website jaisa -->
+<!-- NAV BAR - website jaisa (clickable) -->
 <a href="https://sahilmaurya007.github.io/sahil-maurya-website/"><img src="https://img.shields.io/badge/🏠_Home-Portfolio-0d1117?style=flat-square&labelColor=00d4ff" alt="Home"/></a>
 <a href="https://sahilmaurya007.github.io/sahil-maurya-website/#publications"><img src="https://img.shields.io/badge/📜_Research-Publications-0d1117?style=flat-square&labelColor=00d4ff" alt="Research"/></a>
 <a href="https://sahilmaurya007.github.io/sahil-maurya-website/#chip"><img src="https://img.shields.io/badge/💾_Chips-Gallery-0d1117?style=flat-square&labelColor=00d4ff" alt="Chips"/></a>
@@ -34,13 +34,15 @@
     </td>
     <td>
 
-**Ph.D. Research Scholar** at the **Advanced Architecture for Digital System Lab (A²DSL)**, School of Computing and Electrical Engineering, **IIT Mandi**, under **Dr. Bikram Paul**.
+**Ph.D. Research Scholar** at the **Advanced Architecture for Digital System Lab (A²DSL)**, School of Computing and Electrical Engineering, **IIT Mandi**, under **Dr. Bikram Paul**. *(CGPA 8.33/10)*
 
-🔬 My research focuses on **VLSI design, hardware security, RISC-V architectures, post-quantum cryptography**, and efficient FPGA/ASIC implementations — quantum-resistant cryptographic accelerators for NIST algorithms (**CRYSTALS-Kyber, Dilithium**) with optimized Power, Performance, and Area (PPA).
+🔬 Research: **VLSI design, hardware security, RISC-V architectures, post-quantum cryptography**, and efficient FPGA/ASIC implementations — quantum-resistant cryptographic accelerators for NIST algorithms (**CRYSTALS-Kyber, Dilithium**) with optimized Power, Performance, and Area (PPA).
 
 🎓 **M.Tech Batch Topper** — VLSI & Embedded Systems, IIIT Guwahati (**CGPA 9.11, 1st Rank**)
 
-**Born in Lucknow** — the *City of Nawabs* 🕌 — a little old-school, hopelessly romantic, and forever in love with its *tehzeeb*.
+**Born in Lucknow** — the *City of Nawabs* 🕌 — *"a little old-school, hopelessly romantic, and forever in love with its tehzeeb."*
+
+> *“Science teaches us to understand the world, while poetry teaches us to feel it. I find equal fascination in a thoughtfully designed circuit and a beautifully written couplet — in the logic of a processor and the magic of an unspoken emotion.”*
 
     </td>
   </tr>
@@ -73,8 +75,8 @@
 |:-:|:----:|:-------|:------|
 | 1 | 2027 | **Reproducible Co-Design of Domain-Aware Sleep Switches & Staggered Wake-Up Schedules** 🎤 *Oral* | **VLSID 2027** |
 | 2 | 2026 | **Towards Efficient PQC: Optimized K2RED, Plantard & Approximate Modular Multipliers** | **IEEE ISVLSI 2026** |
-| 3 | 2025 | **Neuromorphic Adaptive Precision RISC-V Processor with Real-Time Precision Scaling** — *40–52% ⚡ energy ↓* | **IEEE HiPC 2025W** |
-| 4 | 2024 | **Approximate Modular Multipliers for R-LWE on FPGAs & ASICs** — *34% area ↓, 33% power ↓* | **IEEE SILCON 2024** |
+| 3 | 2025 | **[Neuromorphic Adaptive Precision RISC-V Processor with Real-Time Precision Scaling](https://ieeexplore.ieee.org/document/11459250)** — *40–52% ⚡ energy ↓* | **IEEE HiPC 2025W** |
+| 4 | 2024 | **[Approximate Modular Multipliers for R-LWE on FPGAs & ASICs](https://ieeexplore.ieee.org/document/10910421)** — *34% area ↓, 33% power ↓* | **IEEE SILCON 2024** |
 
 </div>
 
@@ -87,23 +89,25 @@
   - **Venue**: VLSI Design (VLSID 2027) — Tier-1 Conference
   - **Authors**: Sahil Maurya, Om Maheshwari, Bikram Paul
   - **Status**: ✅ Accepted for **Oral Presentation** 🎉
+  - **Tags**: VLSI Design · Sleep Switches · Wake-Up Schedules · Low Power
 
 **2. Towards Efficient Post-Quantum Cryptography: Implementations of Optimized K2RED, Plantard, and Approximate Modular Multipliers**
   - **Venue**: IEEE ISVLSI 2026 — Tier-1 Conference
   - **Authors**: Sahil Maurya, Bikram Paul
   - **Status**: Published · Certificate of Recognition 🏅
+  - **Tags**: PQC · VLSI · Modular Multipliers
 
 **3. Neuromorphic Adaptive Precision RISC-V Processor with Real-Time Precision Scaling and Neuronal State Management**
   - **Venue**: IEEE HiPC 2025 Workshop (HiPCW) — Tier-1 Conference, Hyderabad
   - **Authors**: Om Maheshwari, **Sahil Maurya**, Bikram Paul
   - **Highlight**: *First RISC-V processor with real-time precision scaling — 40–52% energy reduction*
-  - **Link**: [IEEE Xplore →](https://ieeexplore.ieee.org/document/11459250)
+  - **DOI**: [10.1109/HiPCW66559.2025.00026](https://doi.org/10.1109/HiPCW66559.2025.00026) · [IEEE Xplore →](https://ieeexplore.ieee.org/document/11459250) · [PDF →](https://a2dsl.iitmandi.ac.in/uploads/neuromorphic-adaptive-precision-risc-v-p-9a825d2862a1.pdf)
 
 **4. Approximate Modular Multipliers for R-LWE Cryptosystems on FPGAs and ASICs**
   - **Venue**: IEEE Silchar Subsection Conference (SILCON 2024)
   - **Authors**: **Sahil Maurya**, Babita Jajodia
   - **Highlight**: *34% area reduction, 33% power savings with <1% accuracy loss*
-  - **Link**: [IEEE Xplore →](https://ieeexplore.ieee.org/document/10910421)
+  - **DOI**: [10.1109/SILCON63976.2024.10910421](https://doi.org/10.1109/SILCON63976.2024.10910421) · [IEEE Xplore →](https://ieeexplore.ieee.org/document/10910421)
 
 </details>
 
@@ -178,6 +182,18 @@
 
 </div>
 
+<details>
+<summary><b>🔬 Featured Research Project — Kyber NTT Accelerator (click to expand)</b></summary>
+
+**CRYSTALS-Kyber NTT Hardware Accelerator** — Post-Quantum Cryptography · ASIC
+- High-throughput, side-channel resistant NTT architecture
+- **245 MHz** clock · **1.28 Gbps** throughput
+- NIST-standardized PQC for quantum-resistant communication
+
+Other projects: Toom-Cook Multipliers (FPGA) · Approximate Modular Multiplier (R-LWE) · IoT Weather Monitoring System
+
+</details>
+
 ---
 
 ## ✍️ Siyahi-e-Sahil — Blog Series
@@ -188,10 +204,10 @@
 
 <div align="center">
 
-| Blog | Theme | Features |
-|:-----|:------|:---------|
-| **Play with FPGA: A Love Letter to Reconfigurable Silicon ❤️** | Engineering · Failure · Love | 🎧 🎙 🅷 |
-| **Teaching Assistant — VL-401: RTL Design & Verification** | Teaching · IIT Mandi | 🎧 🎙 🅷 |
+| Blog | Theme |
+|:-----|:------|
+| **[Play with FPGA: A Love Letter to Reconfigurable Silicon ❤️](https://sahilmaurya007.github.io/sahil-maurya-website/#blogs)** | Engineering · Failure · Love |
+| **Teaching Assistant — VL-401: RTL Design & Verification** | Teaching · IIT Mandi |
 
 </div>
 
@@ -202,8 +218,9 @@
 - 🎙 **Podcast mode** — 2-voice (Host ♀ + Storyteller ♂), Hindi/English dono
 - 🅷 **Hindi translation** — koi bhi blog Hindi me padho/suno
 - 📖 **Book mode** — page-by-page flipping jaise real book
-- 🌓 **12+ themes** — night/light modes
+- 🌓 **Night/Light themes** + backgrounds
 - 👀 Live reader counter per blog
+- 🔗 "Link copied ✓" share buttons (WhatsApp, X)
 
 </details>
 
@@ -238,9 +255,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilmaurya007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilmaurya007/)
 [![Email](https://img.shields.io/badge/Email-IIT_Mandi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d24204@students.iitmandi.ac.in)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge)](https://scholar.google.com/citations?user=sahilmaurya007)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge)](https://scholar.google.com/citations?user=dJTdJcwAAAAJ&hl=en&oi=ao)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge)](https://www.researchgate.net/profile/Sahil-Maurya-2)
+[![YouTube](https://img.shields.io/badge/YouTube-Turning_Coffee_Into_Silicon-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Turning_Coffee_Into_Silicon)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-00d4ff?style=for-the-badge)](https://sahilmaurya007.github.io/sahil-maurya-website/)
 
 </div>
