@@ -1,18 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4ff&height=200&section=header&text=Sahil%20Maurya&fontSize=58&fontColor=ffffff&fontAlignY=32&desc=Ph.D.%20Research%20Scholar%20·%20VLSI%20·%20Hardware%20Security%20·%20PQC&descSize=17&descColor=e1e1e1&descAlignY=54&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4ff&height=200&section=header&text=Sahil%20Maurya&fontSize=58&fontColor=ffffff&fontAlignY=32&desc=Ph.D.%20Research%20Scholar%20%C2%B7%20VLSI%20%C2%B7%20Hardware%20Security%20%C2%B7%20PQC&descSize=17&descColor=e1e1e1&descAlignY=54&animation=fadeIn" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Quantum-Resistant+Hardware+Accelerators...;RISC-V+SoC+Design+·+RTL+%E2%86%92+GDSII...;Post-Quantum+Crypto+·+Kyber+%2F+Dilithium...;Siyahi-e-Sahil+—+Kuch+logic+se%2C+kuch+lafzon+se...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Quantum-Resistant+Hardware+Accelerators...;RISC-V+SoC+Design+%C2%B7+RTL+%E2%86%92+GDSII...;Post-Quantum+Crypto+%C2%B7+Kyber+%2F+Dilithium...;Siyahi-e-Sahil+%E2%80%94+Kuch+logic+se%2C+kuch+lafzon+se...)](https://git.io/typing-svg)
 
-<!-- NAV BAR - website jaisa -->
-<a href="https://sahilmaurya007.github.io/sahil-maurya-website/"><img src="https://img.shields.io/badge/🏠_Home-Portfolio-0d1117?style=flat-square&labelColor=00d4ff" alt="Home"/></a>
-<a href="https://sahilmaurya007.github.io/sahil-maurya-website/#publications"><img src="https://img.shields.io/badge/📜_Research-Publications-0d1117?style=flat-square&labelColor=00d4ff" alt="Research"/></a>
-<a href="https://sahilmaurya007.github.io/sahil-maurya-website/#chip"><img src="https://img.shields.io/badge/💾_Chips-Gallery-0d1117?style=flat-square&labelColor=00d4ff" alt="Chips"/></a>
-<a href="https://sahilmaurya007.github.io/sahil-maurya-website/#blogs"><img src="https://img.shields.io/badge/✍️_Blogs-Siyahi--e--Sahil-0d1117?style=flat-square&labelColor=00d4ff" alt="Blogs"/></a>
+<!-- NAV BAR -->
+<a href="https://sahilmaurya007.github.io/sahil-maurya-website/"><img src="https://img.shields.io/badge/%F0%9F%8F%A0_Home-Portfolio-0d1117?style=flat-square&labelColor=00d4ff" alt="Home"/></a>
+<a href="https://sahilmaurya007.github.io/sahil-maurya-website/#publications"><img src="https://img.shields.io/badge/%F0%9F%93%9C_Research-Publications-0d1117?style=flat-square&labelColor=00d4ff" alt="Research"/></a>
+<a href="https://sahilmaurya007.github.io/sahil-maurya-website/#chip"><img src="https://img.shields.io/badge/%F0%9F%92%BE_Chips-Gallery-0d1117?style=flat-square&labelColor=00d4ff" alt="Chips"/></a>
+<a href="https://sahilmaurya007.github.io/sahil-maurya-website/#blogs"><img src="https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F_Blogs-Siyahi--e--Sahil-0d1117?style=flat-square&labelColor=00d4ff" alt="Blogs"/></a>
 
 <br/>
 
-<a href="https://sahilmaurya007.github.io/sahil-maurya-website/"><img src="https://img.shields.io/badge/🌐_VISIT_LIVE_WEBSITE-sahilmaurya007.github.io-00d4ff?style=for-the-badge" alt="Portfolio"/></a>
+<a href="https://sahilmaurya007.github.io/sahil-maurya-website/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_VISIT_LIVE_WEBSITE-sahilmaurya007.github.io-00d4ff?style=for-the-badge" alt="Portfolio"/></a>
 &nbsp;
 <img src="https://komarev.com/ghpvc/?username=sahilmaurya007&label=PROFILE+STREAMS&color=00d4ff&style=flat-square" alt="visitors"/>
 
@@ -36,11 +36,13 @@
 
 **Ph.D. Research Scholar** at the **Advanced Architecture for Digital System Lab (A²DSL)**, School of Computing and Electrical Engineering, **IIT Mandi**, under **Dr. Bikram Paul**.
 
-🔬 My research focuses on **VLSI design, hardware security, RISC-V architectures, post-quantum cryptography**, and efficient FPGA/ASIC implementations — quantum-resistant cryptographic accelerators for NIST algorithms (**CRYSTALS-Kyber, Dilithium**) with optimized Power, Performance, and Area (PPA).
+🔬 Research: **VLSI design, hardware security, RISC-V architectures, post-quantum cryptography**, and efficient FPGA/ASIC implementations — quantum-resistant cryptographic accelerators for NIST algorithms (**CRYSTALS-Kyber, Dilithium**) with optimized Power, Performance, and Area (PPA).
 
 🎓 **M.Tech Batch Topper** — VLSI & Embedded Systems, IIIT Guwahati (**CGPA 9.11, 1st Rank**)
 
-**Born in Lucknow** — the *City of Nawabs* 🕌 — a little old-school, hopelessly romantic, and forever in love with its *tehzeeb*.
+**Born in Lucknow** — the *City of Nawabs* 🕌 — *"a little old-school, hopelessly romantic, and forever in love with its tehzeeb."*
+
+> *“Science teaches us to understand the world, while poetry teaches us to feel it. I find equal fascination in a thoughtfully designed circuit and a beautifully written couplet — in the logic of a processor and the magic of an unspoken emotion.”*
 
     </td>
   </tr>
@@ -57,7 +59,7 @@
 <img src="https://img.shields.io/badge/Digital-VLSI-00ff9d?style=flat-square" />
 <img src="https://img.shields.io/badge/Hardware-Security-ff00c8?style=flat-square" />
 <img src="https://img.shields.io/badge/Side--Channel-Analysis-ffd700?style=flat-square" />
-<img src="https://img.shields.io/badge/RTL→GDSII-Physical%20Design-ff6b35?style=flat-square" />
+<img src="https://img.shields.io/badge/RTL%E2%86%92GDSII-Physical%20Design-ff6b35?style=flat-square" />
 
 </div>
 
@@ -73,8 +75,8 @@
 |:-:|:----:|:-------|:------|
 | 1 | 2027 | **Reproducible Co-Design of Domain-Aware Sleep Switches & Staggered Wake-Up Schedules** 🎤 *Oral* | **VLSID 2027** |
 | 2 | 2026 | **Towards Efficient PQC: Optimized K2RED, Plantard & Approximate Modular Multipliers** | **IEEE ISVLSI 2026** |
-| 3 | 2025 | **Neuromorphic Adaptive Precision RISC-V Processor with Real-Time Precision Scaling** — *40–52% ⚡ energy ↓* | **IEEE HiPC 2025W** |
-| 4 | 2024 | **Approximate Modular Multipliers for R-LWE on FPGAs & ASICs** — *34% area ↓, 33% power ↓* | **IEEE SILCON 2024** |
+| 3 | 2025 | **[Neuromorphic Adaptive Precision RISC-V Processor with Real-Time Precision Scaling](https://ieeexplore.ieee.org/document/11459250)** — *40–52% ⚡ energy ↓* | **IEEE HiPC 2025W** |
+| 4 | 2024 | **[Approximate Modular Multipliers for R-LWE on FPGAs & ASICs](https://ieeexplore.ieee.org/document/10910421)** — *34% area ↓, 33% power ↓* | **IEEE SILCON 2024** |
 
 </div>
 
@@ -97,13 +99,13 @@
   - **Venue**: IEEE HiPC 2025 Workshop (HiPCW) — Tier-1 Conference, Hyderabad
   - **Authors**: Om Maheshwari, **Sahil Maurya**, Bikram Paul
   - **Highlight**: *First RISC-V processor with real-time precision scaling — 40–52% energy reduction*
-  - **Link**: [IEEE Xplore →](https://ieeexplore.ieee.org/document/11459250)
+  - **DOI**: [10.1109/HiPCW66559.2025.00026](https://doi.org/10.1109/HiPCW66559.2025.00026) · [IEEE Xplore](https://ieeexplore.ieee.org/document/11459250) · [PDF](https://a2dsl.iitmandi.ac.in/uploads/neuromorphic-adaptive-precision-risc-v-p-9a825d2862a1.pdf)
 
 **4. Approximate Modular Multipliers for R-LWE Cryptosystems on FPGAs and ASICs**
   - **Venue**: IEEE Silchar Subsection Conference (SILCON 2024)
   - **Authors**: **Sahil Maurya**, Babita Jajodia
   - **Highlight**: *34% area reduction, 33% power savings with <1% accuracy loss*
-  - **Link**: [IEEE Xplore →](https://ieeexplore.ieee.org/document/10910421)
+  - **DOI**: [10.1109/SILCON63976.2024.10910421](https://doi.org/10.1109/SILCON63976.2024.10910421) · [IEEE Xplore](https://ieeexplore.ieee.org/document/10910421)
 
 </details>
 
@@ -113,12 +115,12 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🏅_ISVLSI_2026-Recognition-FFD700?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🎖️_VLSID_Fellow-2024_·_2025_·_2026-00d4ff?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🎤_IEEE_HiPC_2025-Presenter-00ff9d?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/🥇_M.Tech_Batch_Topper-CGPA_9.11-ff00c8?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%F0%9F%8F%85_ISVLSI_2026-Recognition-FFD700?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%96%EF%B8%8F_VLSID_Fellow-2024_%C2%B7_2025_%C2%B7_2026-00d4ff?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%F0%9F%8E%A4_IEEE_HiPC_2025-Presenter-00ff9d?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%F0%9F%A5%87_M.Tech_Batch_Topper-CGPA_9.11-ff00c8?style=for-the-badge&labelColor=0d1117" />
 <br/>
-<img src="https://img.shields.io/badge/✍️_Creative_Writing-2nd_Prize-8b5cf6?style=for-the-badge&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/%E2%9C%8D%EF%B8%8F_Creative_Writing-2nd_Prize-8b5cf6?style=for-the-badge&labelColor=0d1117" />
 
 </div>
 
@@ -132,6 +134,29 @@
 | Certificate of Participation — 32nd IEEE HiPC 2025 | IEEE HiPC, Hyderabad | 2025 |
 | Batch Topper — M.Tech VLSI & Embedded Systems (CGPA 9.11, 1st Rank) | IIIT Guwahati | 2023 |
 | 2nd Prize — Creative Writing Competition | EN-LIT, Lucknow University | — |
+
+</details>
+
+---
+
+## 🎓 Education
+
+| Period | Institute | Degree | Score |
+|:-------|:----------|:--------|:------|
+| **2025 – Present** | **IIT Mandi** | Ph.D. Research Scholar, SCEE (A²DSL) | CGPA 8.33/10 |
+| 2021 – 2023 | IIIT Guwahati | M.Tech, VLSI & Embedded Systems | **CGPA 9.11 · Batch Topper 🥇** |
+| 2017 – 2021 | University of Lucknow | B.Tech, ECE | 66.1% |
+| 2014 – 2016 | UP Board | Higher Secondary & Secondary | 85% · 85% |
+
+<details>
+<summary><b>🎓 Academic Moments (click to expand — convocation photos)</b></summary>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/IIITGConvocation.JPG" width="30%" style="border-radius:12px; border:2px solid #00d4ff;"/>
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/Convocation.jpg" width="30%" style="border-radius:12px; border:2px solid #00ff9d;"/>
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/sahil.jpeg" width="30%" style="border-radius:12px; border:2px solid #ffd700;"/>
+</p>
+<p align="center"><sub>IIITG Convocation · Convocation Day · Ph.D. at IIT Mandi</sub></p>
 
 </details>
 
@@ -161,7 +186,27 @@
 <img src="https://img.shields.io/badge/ModelSim-Simulation-ffd700?style=flat-square" />
 <img src="https://img.shields.io/badge/Intel_Quartus-FPGA-00d4ff?style=flat-square" />
 
+### 📚 Coursework
+<img src="https://img.shields.io/badge/Post_Quantum-Security-8b5cf6?style=flat-square" />
+<img src="https://img.shields.io/badge/Low_Power-VLSI-00d4ff?style=flat-square" />
+<img src="https://img.shields.io/badge/Reconfigurable-Computing-00ff9d?style=flat-square" />
+<img src="https://img.shields.io/badge/VLSI_CAD-Lab-ffd700?style=flat-square" />
+<img src="https://img.shields.io/badge/Digital_VLSI-Design-ff6b35?style=flat-square" />
+
 </div>
+
+<details>
+<summary><b>📜 Certifications (click to expand)</b></summary>
+
+| 🏅 Certification | Issuer | Year |
+|:-----------------|:-------|:----:|
+| System Design Using Verilog HDL | Udemy | 2022 |
+| VSD Static Timing Analysis — Parts 1 & 2 | Udemy | 2025 |
+| Python for Data Science, AI & Development | Coursera | 2023 |
+| Cadence RTL to GDS Flow | Entuple Technology | 2024 |
+| VLSI Design Flow using Vivado | CoreEL / Xilinx | 2024 |
+
+</details>
 
 ---
 
@@ -178,6 +223,18 @@
 
 </div>
 
+<details>
+<summary><b>🔬 Featured Research Project — Kyber NTT Accelerator (click to expand)</b></summary>
+
+**CRYSTALS-Kyber NTT Hardware Accelerator** — Post-Quantum Cryptography · ASIC
+- High-throughput, side-channel resistant NTT architecture
+- **245 MHz** clock · **1.28 Gbps** throughput
+- NIST-standardized PQC for quantum-resistant communication
+
+Other projects: Toom-Cook Multipliers (FPGA) · Approximate Modular Multiplier (R-LWE) · IoT Weather Monitoring System
+
+</details>
+
 ---
 
 ## ✍️ Siyahi-e-Sahil — Blog Series
@@ -188,10 +245,10 @@
 
 <div align="center">
 
-| Blog | Theme | Features |
-|:-----|:------|:---------|
-| **Play with FPGA: A Love Letter to Reconfigurable Silicon ❤️** | Engineering · Failure · Love | 🎧 🎙 🅷 |
-| **Teaching Assistant — VL-401: RTL Design & Verification** | Teaching · IIT Mandi | 🎧 🎙 🅷 |
+| Blog | Theme |
+|:-----|:------|
+| **[Play with FPGA: A Love Letter to Reconfigurable Silicon ❤️](https://sahilmaurya007.github.io/sahil-maurya-website/#blogs)** | Engineering · Failure · Love |
+| **Teaching Assistant — VL-401: RTL Design & Verification** | Teaching · IIT Mandi |
 
 </div>
 
@@ -202,8 +259,40 @@
 - 🎙 **Podcast mode** — 2-voice (Host ♀ + Storyteller ♂), Hindi/English dono
 - 🅷 **Hindi translation** — koi bhi blog Hindi me padho/suno
 - 📖 **Book mode** — page-by-page flipping jaise real book
-- 🌓 **12+ themes** — night/light modes
+- 🌓 **Night/Light themes** + backgrounds
 - 👀 Live reader counter per blog
+- 🔗 "Link copied ✓" share buttons (WhatsApp, X)
+
+</details>
+
+---
+
+## 📸 Gallery — Moments & Milestones
+
+<details>
+<summary><b>📸 Full Photo Gallery (click to expand)</b></summary>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/IIITGConvocation.JPG" width="24%" style="border-radius:12px; border:2px solid #00d4ff;"/>
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/Convocation.jpg" width="24%" style="border-radius:12px; border:2px solid #00ff9d;"/>
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/Best%20Imageee.png" width="24%" style="border-radius:12px; border:2px solid #ffd700;"/>
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/Friends.jpg" width="24%" style="border-radius:12px; border:2px solid #ff00c8;"/>
+</p>
+<p align="center"><sub>IIITG Convocation · Convocation · Lake View · Friends</sub></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/fly.JPG" width="24%" style="border-radius:12px; border:2px solid #00d4ff;"/>
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/arpit3.jpg" width="24%" style="border-radius:12px; border:2px solid #00ff9d;"/>
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/sahil.jpeg" width="24%" style="border-radius:12px; border:2px solid #ffd700;"/>
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/iiitg.jpg" width="24%" style="border-radius:12px; border:2px solid #ff00c8;"/>
+</p>
+<p align="center"><sub>Aviation Dream · With Arpit · Convocation Day · IIIT Guwahati</sub></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/Poster%20Landscape.png" width="31%" style="border-radius:12px; border:2px solid #00d4ff;"/>
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/WhatsApp%20Image%202026-03-05%20at%202.58.51%20PM.jpeg" width="31%" style="border-radius:12px; border:2px solid #00ff9d;"/>
+</p>
+<p align="center"><sub>Research Poster · Recent Moment</sub></p>
 
 </details>
 
@@ -223,6 +312,22 @@
 
 ---
 
+## 🤝 References
+
+<details>
+<summary><b>🤝 Academic References (click to expand)</b></summary>
+
+| Name | Role |
+|:-----|:-----|
+| **Dr. Bikram Paul** | Ph.D. Supervisor — Assistant Professor, SCEE, IIT Mandi |
+| **Dr. Babita Jajodia** | M.Tech Supervisor — Assistant Professor, IIIT Guwahati |
+| **Dr. Rakesh Biswas** | M.Tech Thesis Panelist, IIIT Guwahati |
+| **Dr. Siddharth Singh** | B.Tech Supervisor — HOD, Lucknow University |
+
+</details>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -238,9 +343,11 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilmaurya007)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahilmaurya007/)
 [![Email](https://img.shields.io/badge/Email-IIT_Mandi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:d24204@students.iitmandi.ac.in)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge)](https://scholar.google.com/citations?user=sahilmaurya007)
+[![Google Scholar](https://img.shields.io/badge/Google_Scholar-Citations-4285F4?style=for-the-badge)](https://scholar.google.com/citations?user=dJTdJcwAAAAJ&hl=en&oi=ao)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge)](https://www.researchgate.net/profile/Sahil-Maurya-2)
+[![YouTube](https://img.shields.io/badge/YouTube-Turning_Coffee_Into_Silicon-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@Turning_Coffee_Into_Silicon)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Website-00d4ff?style=for-the-badge)](https://sahilmaurya007.github.io/sahil-maurya-website/)
 
 </div>
@@ -249,7 +356,7 @@
 
 <div align="center">
 
-### ✨ *"The future of security is written in silicon."* ✨
+### ✨ *"The future belongs to those who believe in the beauty of their dreams."* — Eleanor Roosevelt ✨
 
 ### ༺ 🪶 ✒️ ༻
 
