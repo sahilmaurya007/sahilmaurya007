@@ -148,18 +148,6 @@
 | 2017 – 2021 | University of Lucknow | B.Tech, ECE | 66.1% |
 | 2014 – 2016 | UP Board | Higher Secondary & Secondary | 85% · 85% |
 
-<details>
-<summary><b>🎓 Academic Moments (click to expand — convocation photos)</b></summary>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/IIITGConvocation.JPG" width="30%" style="border-radius:12px; border:2px solid #00d4ff;"/>
-  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/Convocation.jpg" width="30%" style="border-radius:12px; border:2px solid #00ff9d;"/>
-  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/sahil.jpeg" width="30%" style="border-radius:12px; border:2px solid #ffd700;"/>
-</p>
-<p align="center"><sub>IIITG Convocation · Convocation Day · Ph.D. at IIT Mandi</sub></p>
-
-</details>
-
 ---
 
 ## 🛠️ Skills & Toolchain
@@ -267,32 +255,68 @@ Other projects: Toom-Cook Multipliers (FPGA) · Approximate Modular Multiplier (
 
 ---
 
-## 📸 Gallery — Moments & Milestones
+## 📸 Gallery — Albums
+
+### 🏔️ Album 1 · IIT Mandi Snapshot
 
 <details>
-<summary><b>📸 Full Photo Gallery (click to expand)</b></summary>
+<summary><b>🏔️ IIT Mandi Moments (click to expand) — Kamand Valley, lab, campus life</b></summary>
+
+*Ph.D. life at IIT Mandi — moments from the Himalayas.*
+
+<!-- IIT-MANDI-PHOTOS: Apni photos yahan add karo —
+     image/ folder me photo daalo (sahil-maurya-website repo),
+     phir neeche line ki copy bana ke src badal do:
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/IIITGConvocation.JPG" width="24%" style="border-radius:12px; border:2px solid #00d4ff;"/>
-  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/Convocation.jpg" width="24%" style="border-radius:12px; border:2px solid #00ff9d;"/>
-  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/Best%20Imageee.png" width="24%" style="border-radius:12px; border:2px solid #ffd700;"/>
-  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/Friends.jpg" width="24%" style="border-radius:12px; border:2px solid #ff00c8;"/>
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/iitmandi-1.jpg" width="30%" style="border-radius:12px; border:2px solid #00d4ff;"/>
 </p>
-<p align="center"><sub>IIITG Convocation · Convocation · Lake View · Friends</sub></p>
+<p align="center"><sub>IIT Mandi — apna caption yahan</sub></p>
+-->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/fly.JPG" width="24%" style="border-radius:12px; border:2px solid #00d4ff;"/>
-  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/arpit3.jpg" width="24%" style="border-radius:12px; border:2px solid #00ff9d;"/>
-  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/sahil.jpeg" width="24%" style="border-radius:12px; border:2px solid #ffd700;"/>
-  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/iiitg.jpg" width="24%" style="border-radius:12px; border:2px solid #ff00c8;"/>
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/sahil.jpeg" width="30%" style="border-radius:12px; border:2px solid #00d4ff;"/>
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/Poster%20Landscape.png" width="30%" style="border-radius:12px; border:2px solid #00ff9d;"/>
 </p>
-<p align="center"><sub>Aviation Dream · With Arpit · Convocation Day · IIIT Guwahati</sub></p>
+<p align="center"><sub>Joined IIT Mandi — A²DSL · Research Poster</sub></p>
+
+</details>
+
+### 🎓 Album 2 · IIIT Guwahati Moments
+
+<details>
+<summary><b>🎓 IIITG Moments (click to expand) — convocation, campus, M.Tech life</b></summary>
+
+*M.Tech memories — the topper years at IIIT Guwahati.*
+
+<!-- IIITG-PHOTOS: aur photos add karne ke liye neeche lines copy karo -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/Poster%20Landscape.png" width="31%" style="border-radius:12px; border:2px solid #00d4ff;"/>
-  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/WhatsApp%20Image%202026-03-05%20at%202.58.51%20PM.jpeg" width="31%" style="border-radius:12px; border:2px solid #00ff9d;"/>
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/IIITGConvocation.JPG" width="30%" style="border-radius:12px; border:2px solid #00d4ff;"/>
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/Convocation.jpg" width="30%" style="border-radius:12px; border:2px solid #00ff9d;"/>
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/iiitg.jpg" width="30%" style="border-radius:12px; border:2px solid #ffd700;"/>
 </p>
-<p align="center"><sub>Research Poster · Recent Moment</sub></p>
+<p align="center"><sub>IIITG Convocation 🎓 · Convocation Day · IIIT Guwahati Campus</sub></p>
+
+</details>
+
+### 🎉 Album 3 · Life & Moments
+
+<details>
+<summary><b>🎉 Life Moments (click to expand) — lake views, friends, dreams</b></summary>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/Best%20Imageee.png" width="24%" style="border-radius:12px; border:2px solid #00d4ff;"/>
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/Friends.jpg" width="24%" style="border-radius:12px; border:2px solid #00ff9d;"/>
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/fly.JPG" width="24%" style="border-radius:12px; border:2px solid #ffd700;"/>
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/arpit3.jpg" width="24%" style="border-radius:12px; border:2px solid #ff00c8;"/>
+</p>
+<p align="center"><sub>Lake View · Friends · Aviation Dream · With Arpit</sub></p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/WhatsApp%20Image%202026-03-05%20at%202.58.51%20PM.jpeg" width="31%" style="border-radius:12px; border:2px solid #00d4ff;"/>
+</p>
+<p align="center"><sub>Recent Moment</sub></p>
 
 </details>
 
