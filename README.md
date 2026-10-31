@@ -275,7 +275,7 @@ Other projects: Toom-Cook Multipliers (FPGA) · Approximate Modular Multiplier (
 -->
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/sahil.jpeg" width="30%" style="border-radius:12px; border:2px solid #00d4ff;"/>
+  <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/sahiil.jpeg" width="30%" style="border-radius:12px; border:2px solid #00d4ff;"/>
   <img src="https://raw.githubusercontent.com/sahilmaurya007/sahil-maurya-website/main/image/Poster%20Landscape.png" width="30%" style="border-radius:12px; border:2px solid #00ff9d;"/>
 </p>
 <p align="center"><sub>Joined IIT Mandi — A²DSL · Research Poster</sub></p>
